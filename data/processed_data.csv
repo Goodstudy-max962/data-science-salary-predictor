@@ -1,0 +1,743 @@
+avg_salary_k,Location,job_state,Industry,Sector,Revenue,Size,Type of ownership,company_clean,Rating,age,num_comp,seniority,desc_len,python_yn,R_yn,spark,aws,excel,skill_sql,skill_tableau,skill_power_bi,skill_hadoop,skill_azure,skill_tensorflow,skill_pytorch,skill_machine_learning,skill_deep_learning
+72.0,"Albuquerque, NM",NM,Aerospace & Defense,Aerospace & Defense,$50 to $100 million (USD),501 to 1000 employees,Company - Private,Tecolote Research,3.8,47,0,na,2536,1,0,0,0,1,0,1,1,0,0,0,0,1,0
+87.5,"Linthicum, MD",MD,Health Care Services & Hospitals,Health Care,$2 to $5 billion (USD),10000+ employees,Other Organization,University of Maryland Medical System,3.4,36,0,na,4783,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+85.0,"Clearwater, FL",FL,Security Services,Business Services,$100 to $500 million (USD),501 to 1000 employees,Company - Private,KnowBe4,4.8,10,0,na,3461,1,0,1,0,1,1,0,0,0,0,0,0,1,0
+76.5,"Richland, WA",WA,Energy,"Oil, Gas, Energy & Utilities",$500 million to $1 billion (USD),1001 to 5000 employees,Government,PNNL,3.8,55,3,na,3883,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+114.5,"New York, NY",NY,Advertising & Marketing,Business Services,Unknown / Non-Applicable,51 to 200 employees,Company - Private,Affinity Solutions,2.9,22,3,na,2728,1,0,0,0,1,1,0,0,0,0,0,0,1,0
+95.0,"Dallas, TX",TX,Real Estate,Real Estate,$1 to $2 billion (USD),201 to 500 employees,Company - Public,CyrusOne,3.4,20,3,na,3747,1,0,0,1,1,1,0,1,0,1,0,0,1,0
+73.5,"Baltimore, MD",MD,Banks & Credit Unions,Finance,Unknown / Non-Applicable,501 to 1000 employees,Company - Private,ClearOne Advantage,4.1,12,0,na,1786,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+114.0,"San Jose, CA",CA,Consulting,Business Services,$25 to $50 million (USD),201 to 500 employees,Company - Private,Logic20/20,3.8,15,0,na,3804,1,0,1,1,1,1,0,0,0,0,1,1,1,0
+61.0,"Rochester, NY",NY,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),10000+ employees,Hospital,Rochester Regional Health,3.3,6,0,na,1538,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+140.0,"New York, NY",NY,Internet,Information Technology,$100 to $500 million (USD),51 to 200 employees,Company - Private,<intent>,4.6,11,2,na,4574,1,0,1,0,0,0,0,0,0,0,0,0,1,0
+163.5,"San Jose, CA",CA,Other Retail Stores,Retail,$1 to $2 billion (USD),501 to 1000 employees,Company - Private,Wish,3.5,9,0,na,2757,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+85.0,"Chantilly, VA",VA,Research & Development,Business Services,$1 to $2 billion (USD),5001 to 10000 employees,Company - Public,ManTech,4.1,52,0,na,3490,0,0,0,0,0,1,0,0,1,0,0,0,1,0
+139.0,"Plano, TX",TX,"Department, Clothing, & Shoe Stores",Retail,$10+ billion (USD),10000+ employees,Company - Public,Walmart,3.2,58,3,na,3934,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+65.5,"Seattle, WA",WA,Advertising & Marketing,Business Services,Unknown / Non-Applicable,201 to 500 employees,Company - Private,Yesler,4.1,8,0,na,4897,1,0,1,1,1,1,1,1,0,1,0,0,0,0
+113.5,"Cambridge, MA",MA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),10000+ employees,Company - Public,Takeda Pharmaceuticals,3.7,239,3,na,3731,1,0,1,0,0,1,0,0,0,0,1,0,1,1
+146.0,"Newark, NJ",NJ,Motion Picture Production & Distribution,Media,Unknown / Non-Applicable,1001 to 5000 employees,Subsidiary or Business Segment,Audible,3.6,25,0,na,1889,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+102.0,"Cambridge, MA",MA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $5 million (USD),51 to 200 employees,Company - Public,Blueprint Medicines,3.9,9,3,na,3639,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+153.5,"Mountain View, CA",CA,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,201 to 500 employees,Company - Private,h2o.ai,4.3,9,0,na,4163,1,0,1,1,1,0,0,0,1,1,0,0,1,0
+142.5,"San Francisco, CA",CA,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,51 to 200 employees,Company - Private,Nuna,4.2,10,0,na,3512,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+87.5,"Denver, CO",CO,Insurance Carriers,Insurance,$500 million to $1 billion (USD),501 to 1000 employees,Nonprofit Organization,Pinnacol Assurance,4.0,105,0,na,4397,1,0,0,0,1,1,0,0,0,0,1,1,1,0
+105.5,"Seattle, WA",WA,Internet,Information Technology,Unknown / Non-Applicable,201 to 500 employees,Company - Private,Porch,3.2,8,3,na,2918,1,0,1,0,0,1,0,0,0,0,0,0,1,0
+96.0,"Dallas, TX",TX,Insurance Agencies & Brokerages,Insurance,Unknown / Non-Applicable,201 to 500 employees,Company - Private,Health IQ,3.9,7,0,senior,6909,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+112.5,"Chicago, IL",IL,Logistics & Supply Chain,Transportation & Logistics,Unknown / Non-Applicable,501 to 1000 employees,Company - Private,Truckstop.com,3.8,25,0,na,6408,1,0,0,1,1,1,0,0,0,0,0,0,1,0
+84.0,"Louisville, KY",KY,Logistics & Supply Chain,Transportation & Logistics,$10 to $25 million (USD),51 to 200 employees,Nonprofit Organization,SMC 3,4.3,85,0,na,2907,1,0,0,0,1,1,1,0,0,0,0,0,0,0
+143.0,"Herndon, VA",VA,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),501 to 1000 employees,Company - Private,Novetta,4.0,8,3,na,3760,1,0,0,1,0,0,0,0,0,0,1,0,1,1
+86.5,"Cambridge, MA",MA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),10000+ employees,Company - Public,Pfizer,4.0,171,0,na,3698,1,0,0,1,1,0,0,0,0,0,0,0,1,0
+99.5,"Hillsboro, OR",OR,Banks & Credit Unions,Finance,$100 to $500 million (USD),1001 to 5000 employees,Company - Private,First Tech Federal Credit Union,3.5,68,0,na,4420,1,0,1,1,1,1,1,0,0,0,1,0,1,0
+47.5,"Worcester, MA",MA,Insurance Carriers,Insurance,$5 to $10 billion (USD),5001 to 10000 employees,Company - Public,The Hanover Insurance Group,3.7,168,0,na,4900,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+84.0,"Groton, CT",CT,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),10000+ employees,Company - Public,Pfizer,4.0,171,0,na,5015,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+85.0,"Clearwater, FL",FL,Security Services,Business Services,$100 to $500 million (USD),501 to 1000 employees,Company - Private,KnowBe4,4.8,10,0,na,3461,1,0,1,0,1,1,0,0,0,0,0,0,1,0
+76.5,"Richland, WA",WA,Energy,"Oil, Gas, Energy & Utilities",$500 million to $1 billion (USD),1001 to 5000 employees,Government,PNNL,3.8,55,3,na,3883,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+96.0,"Detroit, MI",MI,Real Estate,Real Estate,$500 million to $1 billion (USD),1001 to 5000 employees,Company - Private,Amrock,3.6,23,0,na,3342,1,0,0,0,0,1,0,0,0,0,0,0,1,0
+114.5,"Cambridge, MA",MA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),10000+ employees,Company - Public,Novartis,3.8,24,0,na,5045,1,0,0,0,0,0,0,0,0,0,0,1,1,0
+121.0,"Sunnyvale, CA",CA,Telecommunications Services,Telecommunications,$2 to $5 billion (USD),5001 to 10000 employees,Company - Public,Juniper Networks,3.8,24,0,na,2327,1,0,1,0,1,1,0,0,0,0,1,0,1,1
+112.5,"Ipswich, MA",MA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,201 to 500 employees,Company - Private,New England Biolabs,4.7,46,3,na,2161,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+106.0,"San Jose, CA",CA,IT Services,Information Technology,Unknown / Non-Applicable,201 to 500 employees,Company - Private,Clarity Insights,4.2,12,0,na,1739,1,0,0,0,1,1,1,1,0,0,0,0,0,0
+107.0,"Redlands, CA",CA,Computer Hardware & Software,Information Technology,$1 to $2 billion (USD),1001 to 5000 employees,Company - Private,Esri,3.5,51,1,na,5000,1,0,1,1,0,0,1,0,1,1,0,0,1,1
+110.0,"Woburn, MA",MA,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),201 to 500 employees,Company - Private,Systems & Technology Research,4.7,10,0,na,3703,1,0,1,0,1,1,0,0,1,0,1,1,1,1
+147.5,"Fremont, CA",CA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD),5001 to 10000 employees,Company - Public,Sartorius,3.5,150,0,senior,3555,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+106.0,"Long Beach, NY",NY,Insurance Carriers,Insurance,$100 to $500 million (USD),201 to 500 employees,Company - Private,Lancer Insurance,3.5,35,0,na,1739,1,0,0,0,1,1,0,0,0,0,0,0,0,0
+88.0,"San Francisco, CA",CA,IT Services,Information Technology,$50 to $100 million (USD),201 to 500 employees,Company - Private,Sauce Labs,4.2,12,3,na,3053,1,0,0,1,1,1,1,0,0,0,0,0,0,0
+98.5,"Marlborough, MA",MA,-1,-1,Less than $1 million (USD),1 to 50 employees,Company - Private,Persivia,3.6,-1,0,na,1996,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+142.5,"San Francisco, CA",CA,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,51 to 200 employees,Company - Private,Nuna,4.2,10,0,na,3833,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+82.5,"Allendale, NJ",NJ,Consumer Products Manufacturing,Manufacturing,$2 to $5 billion (USD),5001 to 10000 employees,Company - Public,Edgewell Personal Care,3.4,5,3,na,3550,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+130.0,"Chicago, IL",IL,Real Estate,Real Estate,$2 to $5 billion (USD),1001 to 5000 employees,Company - Public,Equity Residential,4.3,27,3,senior,9120,1,0,1,0,1,1,1,0,1,0,0,0,1,1
+155.0,"Washington, DC",DC,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,Unknown,Company - Private,BPA Services,5.0,-1,0,na,3213,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+184.5,"Bellevue, WA",WA,IT Services,Information Technology,$10+ billion (USD),10000+ employees,Company - Public,Visa Inc.,3.7,62,3,senior,7286,1,0,0,0,1,1,1,0,0,0,0,0,1,0
+29.5,"Longmont, CO",CO,Enterprise Software & Network Solutions,Information Technology,$2 to $5 billion (USD),5001 to 10000 employees,Company - Private,Intrado,3.1,34,0,na,3412,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+86.5,"Beavercreek, OH",OH,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),501 to 1000 employees,Company - Private,Centauri,4.7,21,3,na,2682,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+81.0,"Peoria, IL",IL,Industrial Manufacturing,Manufacturing,$10+ billion (USD),10000+ employees,Company - Public,Caterpillar,3.7,95,3,na,2739,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+91.0,"Fort Lauderdale, FL",FL,Advertising & Marketing,Business Services,Unknown / Non-Applicable,501 to 1000 employees,Subsidiary or Business Segment,Zimmerman Advertising,3.8,36,0,na,2915,1,0,0,0,1,1,1,0,1,0,0,0,1,0
+114.5,"Boston, MA",MA,Insurance Carriers,Insurance,$10+ billion (USD),10000+ employees,Company - Private,Liberty Mutual Insurance,3.3,108,3,na,4244,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+68.0,"Huntsville, AL",AL,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),1001 to 5000 employees,Company - Private,"Torch Technologies, Inc.",4.6,18,0,na,1629,1,0,0,0,1,0,1,0,0,0,0,0,0,0
+115.0,"Armonk, NY",NY,Insurance Agencies & Brokerages,Insurance,$10+ billion (USD),10000+ employees,Company - Public,Swiss Re,3.7,157,3,na,4734,1,0,0,0,1,1,0,0,0,0,0,0,1,0
+109.5,"San Diego, CA",CA,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),10000+ employees,Company - Public,Northrop Grumman,3.7,81,0,na,4448,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+75.5,"Albuquerque, NM",NM,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD),5001 to 10000 employees,Company - Public,Sartorius,3.5,150,0,na,3543,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+154.5,"San Francisco, CA",CA,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,501 to 1000 employees,Company - Private,Netskope,4.1,8,3,na,4203,1,0,1,0,1,0,0,0,0,0,1,0,1,0
+143.5,"Saint Louis, MO",MO,IT Services,Information Technology,Unknown / Non-Applicable,51 to 200 employees,Company - Private,1904labs,4.7,4,2,na,5020,1,0,1,0,0,1,0,0,0,0,1,0,1,0
+73.5,"Baltimore, MD",MD,Banks & Credit Unions,Finance,Unknown / Non-Applicable,501 to 1000 employees,Company - Private,ClearOne Advantage,4.1,12,0,na,1786,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+95.0,"Dallas, TX",TX,Real Estate,Real Estate,$1 to $2 billion (USD),201 to 500 employees,Company - Public,CyrusOne,3.4,20,3,na,3747,1,0,0,1,1,1,0,1,0,1,0,0,1,0
+107.0,"Cincinnati, OH",OH,Metals Brokers,Mining & Metals,Unknown / Non-Applicable,201 to 500 employees,Subsidiary or Business Segment,The David J. Joseph Company,4.4,135,0,senior,4804,1,0,0,1,0,1,1,0,0,0,0,0,1,0
+115.0,"New York, NY",NY,Consulting,Business Services,$10 to $25 million (USD),201 to 500 employees,Company - Private,USEReady,4.3,9,0,na,1382,1,0,1,1,0,1,1,0,1,1,0,0,1,0
+139.5,"Palo Alto, CA",CA,Financial Transaction Processing,Finance,$50 to $100 million (USD),501 to 1000 employees,Company - Public,Bill.com,3.8,14,0,senior,2933,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+67.0,"Richland, WA",WA,Energy,"Oil, Gas, Energy & Utilities",$500 million to $1 billion (USD),1001 to 5000 employees,Government,Pacific Northwest National Laboratory,3.8,55,3,na,4945,0,0,0,0,0,0,0,0,0,0,1,1,1,1
+85.0,"Coraopolis, PA",PA,Sporting Goods Stores,Retail,$5 to $10 billion (USD),10000+ employees,Company - Public,DICK'S Sporting Goods - Corporate,3.8,72,3,na,2493,1,0,0,0,0,1,0,0,0,0,1,1,1,1
+118.0,"Framingham, MA",MA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $5 million (USD),51 to 200 employees,Company - Private,Berg Health,2.8,14,0,na,1939,1,0,0,0,1,1,0,0,0,0,0,0,0,0
+79.5,"Atlanta, GA",GA,Computer Hardware & Software,Information Technology,$25 to $50 million (USD),51 to 200 employees,Company - Private,Oversight Systems,4.7,17,0,na,3081,1,0,0,0,1,1,0,0,0,0,0,1,1,1
+56.5,"Boston, MA",MA,Advertising & Marketing,Business Services,$100 to $500 million (USD),201 to 500 employees,Company - Public,C Space,3.1,21,4,na,8397,1,0,0,0,0,1,1,0,0,0,0,0,1,0
+128.5,"Philadelphia, PA",PA,Staffing & Outsourcing,Business Services,$5 to $10 million (USD),1 to 50 employees,Company - Private,"Numeric, LLC",3.2,-1,0,na,2306,1,0,1,1,0,1,0,0,1,0,0,0,1,0
+97.5,"Vancouver, WA",WA,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,10000+ employees,Company - Public,HP Inc.,4.0,81,0,na,2291,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+66.5,"Indianapolis, IN",IN,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,1 to 50 employees,Company - Private,SpringML,4.4,5,0,na,1886,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+179.5,"Lake Forest, IL",IL,Wholesale,Business Services,$10+ billion (USD),10000+ employees,Company - Public,Grainger,3.6,93,0,na,2903,1,0,0,0,1,1,0,0,0,0,0,0,1,0
+76.0,"Maryland Heights, MO",MO,Research & Development,Business Services,$50 to $100 million (USD),501 to 1000 employees,Subsidiary or Business Segment,EAG Laboratories,2.7,42,0,na,2653,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+112.0,"Charlottesville, VA",VA,IT Services,Information Technology,$100 to $500 million (USD),501 to 1000 employees,Company - Private,The Buffalo Group,3.9,10,3,senior,4427,1,0,1,0,0,1,0,0,1,0,0,0,1,0
+98.0,"Pittsburgh, PA",PA,Mining,Mining & Metals,$1 to $2 billion (USD),1001 to 5000 employees,Company - Private,Carmeuse,3.1,160,3,na,2609,1,0,0,0,0,0,0,0,0,1,0,0,1,0
+128.0,"Vancouver, WA",WA,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,10000+ employees,Company - Public,HP Inc.,4.0,81,0,senior,4295,0,0,1,1,0,1,0,0,0,0,1,0,1,1
+150.5,"Mountain View, CA",CA,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,201 to 500 employees,Company - Private,h2o.ai,4.3,9,0,na,3405,1,0,1,1,1,0,0,0,1,1,1,0,1,1
+87.5,"Cambridge, MA",MA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10 to $25 million (USD),51 to 200 employees,Company - Private,GNS Healthcare,1.9,20,0,na,5153,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+110.0,"Chantilly, VA",VA,Aerospace & Defense,Aerospace & Defense,$1 to $2 billion (USD),1001 to 5000 employees,Company - Private,Peraton,3.3,3,0,na,3381,1,0,0,0,1,0,0,0,1,0,0,0,1,0
+113.5,"San Jose, CA",CA,IT Services,Information Technology,$500 million to $1 billion (USD),10000+ employees,Company - Private,Pactera,4.4,25,3,na,879,1,0,0,0,1,0,0,0,0,0,0,0,1,1
+124.0,"San Francisco, CA",CA,Health Care Services & Hospitals,Health Care,$1 to $5 million (USD),51 to 200 employees,Company - Private,Nurx,3.9,4,0,na,4189,1,0,0,0,0,1,0,0,0,0,0,0,1,0
+56.5,"Harrisburg, PA",PA,Advertising & Marketing,Business Services,$25 to $50 million (USD),201 to 500 employees,Company - Private,webfx.com,4.7,23,0,jr,4424,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+130.0,"Laurel, MD",MD,Aerospace & Defense,Aerospace & Defense,$1 to $2 billion (USD),5001 to 10000 employees,Nonprofit Organization,Johns Hopkins University Applied Physics Laboratory,4.5,78,3,na,2996,1,0,0,0,1,0,0,0,0,0,0,0,1,1
+77.5,"Chicago, IL",IL,Computer Hardware & Software,Information Technology,$10 to $25 million (USD),51 to 200 employees,Company - Private,Productive Edge,4.3,12,3,na,3682,0,0,0,0,1,1,0,0,0,0,0,0,1,0
+87.0,"Arlington, VA",VA,Consulting,Business Services,$50 to $100 million (USD),201 to 500 employees,Company - Private,Excella Consulting,4.0,18,0,na,3819,1,0,0,1,1,1,0,0,0,0,0,0,0,0
+53.5,"Tacoma, WA",WA,Wholesale,Business Services,$100 to $500 million (USD),501 to 1000 employees,Company - Private,Gensco,4.4,72,0,na,1791,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+139.0,"Plano, TX",TX,"Department, Clothing, & Shoe Stores",Retail,$10+ billion (USD),10000+ employees,Company - Public,Walmart,3.2,58,3,na,3934,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+114.0,"San Jose, CA",CA,Consulting,Business Services,$25 to $50 million (USD),201 to 500 employees,Company - Private,Logic20/20,3.8,15,0,na,3804,1,0,1,1,1,1,0,0,0,0,1,1,1,0
+85.5,"Miami, FL",FL,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),501 to 1000 employees,Company - Private,goTRG,4.2,12,0,na,3204,1,0,1,0,1,1,0,0,1,0,0,0,1,0
+48.0,"Huntsville, AL",AL,IT Services,Information Technology,$25 to $50 million (USD),51 to 200 employees,Company - Private,NMR Consulting,4.5,24,0,na,2253,0,0,0,0,1,1,0,0,1,0,0,0,0,0
+48.0,"New Orleans, LA",LA,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,51 to 200 employees,Company - Private,iSeatz,3.5,21,0,na,2772,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+174.0,"San Francisco, CA",CA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),201 to 500 employees,Company - Public,Nektar Therapeutics,3.5,30,3,senior,4751,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+85.0,"Atlanta, GA",GA,Financial Analytics & Research,Finance,$1 to $2 billion (USD),5001 to 10000 employees,Company - Public,TransUnion,3.9,52,0,na,2380,1,0,1,0,0,1,0,0,0,0,0,0,1,0
+106.5,"Landover, MD",MD,IT Services,Information Technology,$10 to $25 million (USD),51 to 200 employees,Company - Private,IT Concepts,4.7,17,0,na,2723,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+72.5,"Patuxent River, MD",MD,IT Services,Information Technology,$100 to $500 million (USD),1001 to 5000 employees,Company - Private,Scientific Research Corporation,4.2,32,0,na,2337,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+85.5,"Suitland, MD",MD,IT Services,Information Technology,$10+ billion (USD),10000+ employees,Subsidiary or Business Segment,General Dynamics Information Technology,3.4,24,3,na,4088,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+97.5,"McLean, VA",VA,Federal Agencies,Government,$1 to $2 billion (USD),5001 to 10000 employees,Nonprofit Organization,MITRE,3.2,62,3,na,5342,1,0,0,0,1,1,1,1,0,0,0,0,0,0
+99.0,"Fort Belvoir, VA",VA,IT Services,Information Technology,$100 to $500 million (USD),501 to 1000 employees,Company - Private,The Buffalo Group,3.9,10,3,na,2588,1,0,0,0,1,0,1,0,0,0,0,0,0,0
+56.5,"Milwaukee, WI",WI,Insurance Carriers,Insurance,$2 to $5 billion (USD),1001 to 5000 employees,Company - Private,DentaQuest,3.1,19,3,na,4203,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+133.0,"Silver Spring, MD",MD,IT Services,Information Technology,Unknown / Non-Applicable,1 to 50 employees,Company - Private,Redjack,4.1,13,0,senior,5467,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+121.0,"New York, NY",NY,Research & Development,Business Services,Unknown / Non-Applicable,51 to 200 employees,Company - Private,7Park Data,3.8,8,0,na,3443,1,0,1,0,0,0,0,0,0,0,1,1,1,0
+85.5,"Syracuse, NY",NY,Security Services,Business Services,Unknown / Non-Applicable,501 to 1000 employees,Company - Private,Rapid Response Monitoring,4.7,28,3,na,3316,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+87.5,"Houston, TX",TX,Education Training Services,Education,Unknown / Non-Applicable,1001 to 5000 employees,Subsidiary or Business Segment,Trilogy Ed,4.3,5,3,na,3717,1,0,0,0,0,1,0,0,0,0,1,0,1,0
+237.5,"Washington, DC",DC,Consulting,Business Services,Unknown / Non-Applicable,1001 to 5000 employees,Company - Private,Gallup,4.2,85,3,senior,3301,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+95.5,"Charlotte, NC",NC,IT Services,Information Technology,$100 to $500 million (USD),1001 to 5000 employees,Company - Private,CapTech,3.9,23,3,na,5483,1,0,1,0,0,1,1,0,0,0,0,0,0,0
+104.5,"Southfield, MI",MI,Transportation Equipment Manufacturing,Manufacturing,$5 to $10 billion (USD),10000+ employees,Company - Public,American Axle & Manufacturing,3.3,26,0,senior,4753,1,0,1,1,1,1,0,1,0,0,0,0,1,0
+56.5,"Matawan, NJ",NJ,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,201 to 500 employees,Company - Private,CentralReach,4.7,8,3,na,5609,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+55.0,"Phoenix, AZ",AZ,Enterprise Software & Network Solutions,Information Technology,$25 to $50 million (USD),201 to 500 employees,Company - Private,Integrate,4.3,10,0,senior,3209,0,0,0,0,1,1,0,1,0,1,0,0,0,0
+61.5,"Omaha, NE",NE,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,1001 to 5000 employees,Hospital,Boys Town Hospital,2.9,43,3,na,4917,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+157.0,"San Francisco, CA",CA,Computer Hardware & Software,Information Technology,$100 to $500 million (USD),201 to 500 employees,Company - Private,Demandbase,4.5,14,3,na,5139,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+78.0,"Lyndhurst, NJ",NJ,Internet,Information Technology,Unknown / Non-Applicable,201 to 500 employees,Company - Private,Sapphire Digital,3.4,1,2,na,2232,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+113.5,"Cambridge, MA",MA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),10000+ employees,Company - Public,Takeda Pharmaceuticals,3.7,239,3,na,3731,1,0,1,0,0,1,0,0,0,0,1,0,1,1
+140.0,"New York, NY",NY,Internet,Information Technology,$100 to $500 million (USD),51 to 200 employees,Company - Private,<intent>,4.6,11,2,na,4574,1,0,1,0,0,0,0,0,0,0,0,0,1,0
+132.5,"San Francisco, CA",CA,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,51 to 200 employees,Company - Private,Formation,3.2,5,0,na,3158,0,0,1,0,1,0,0,0,0,0,1,0,1,0
+108.0,"San Francisco, CA",CA,Computer Hardware & Software,Information Technology,$2 to $5 billion (USD),5001 to 10000 employees,Company - Public,Autodesk,4.0,38,0,na,3443,1,0,1,0,0,1,0,0,1,0,0,0,0,0
+80.5,"Atlanta, IN",IN,Farm Support Services,Agriculture & Forestry,$50 to $100 million (USD),501 to 1000 employees,Company - Private,Beck's Hybrids,4.6,83,0,na,741,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+107.5,"Rockville, MD",MD,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,201 to 500 employees,Company - Private,DrFirst,2.8,20,0,na,3899,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+95.0,"Minneapolis, MN",MN,Consulting,Business Services,$25 to $50 million (USD),51 to 200 employees,Company - Private,Object Partners,4.7,24,2,na,2896,0,0,1,1,0,1,0,0,1,1,0,0,0,0
+119.5,"Los Angeles, CA",CA,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,1001 to 5000 employees,Nonprofit Organization,L.A. Care Health Plan,3.0,23,3,na,3947,1,0,1,0,0,1,1,0,0,0,0,0,1,1
+134.0,"Charlotte, NC",NC,Advertising & Marketing,Business Services,$1 to $2 billion (USD),1001 to 5000 employees,Company - Private,Red Ventures,3.2,20,3,senior,2620,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+100.5,"Cambridge, MA",MA,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,201 to 500 employees,Company - Private,Quick Base,4.4,21,0,na,4188,1,0,0,0,1,1,1,1,0,0,0,0,1,0
+107.5,"Cincinnati, OH",OH,TV Broadcast & Cable Networks,Media,$500 million to $1 billion (USD),1001 to 5000 employees,Company - Public,The E.W. Scripps Company,3.5,142,0,na,7231,1,0,0,0,0,1,1,0,0,0,0,0,0,0
+122.0,"Washington, DC",DC,Internet,Information Technology,Unknown / Non-Applicable,51 to 200 employees,Company - Private,Upside Business Travel,4.0,5,0,na,4064,1,0,1,1,0,1,0,0,0,0,0,0,1,0
+92.5,"Chicago, IL",IL,Real Estate,Real Estate,$2 to $5 billion (USD),1001 to 5000 employees,Company - Public,Equity Residential,4.3,27,3,na,8175,1,0,1,0,1,1,0,0,1,1,0,0,1,0
+62.0,"Baltimore, MD",MD,Research & Development,Business Services,$100 to $500 million (USD),501 to 1000 employees,Company - Private,Synagro,2.3,34,0,na,1822,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+39.5,"Alabaster, AL",AL,Architectural & Engineering Services,Business Services,$25 to $50 million (USD),51 to 200 employees,Unknown,Alliance Source Testing,4.0,20,0,na,2773,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+107.5,"Santa Fe Springs, Los Angeles, CA",CA,Industrial Manufacturing,Manufacturing,$100 to $500 million (USD),1001 to 5000 employees,Company - Private,Accuride International,3.6,54,0,na,3987,0,0,0,0,1,0,1,0,0,0,0,0,1,0
+40.5,"Kansas City, MO",MO,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable,501 to 1000 employees,Company - Private,Full Potential Solutions,3.8,3,0,na,4154,1,0,0,1,1,1,1,0,0,1,0,0,0,0
+89.5,"Ashburn, VA",VA,IT Services,Information Technology,$10+ billion (USD),10000+ employees,Company - Public,Visa Inc.,3.7,62,3,senior,5002,1,0,1,0,0,1,1,0,1,0,0,0,1,0
+81.0,"Chicago, IL",IL,Consulting,Business Services,$50 to $100 million (USD),201 to 500 employees,Company - Private,Maven Wave Partners,4.4,12,0,na,3154,1,0,0,1,1,1,1,0,1,1,0,0,1,0
+147.0,"Herndon, VA",VA,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),501 to 1000 employees,Company - Private,Novetta,4.0,8,3,senior,3698,1,0,0,1,0,0,0,0,0,0,1,0,1,1
+85.0,"Fort Worth, TX",TX,Brokerage Services,Finance,$100 to $500 million (USD),1001 to 5000 employees,Company - Private,"First Command Financial Services, Inc.",3.2,62,3,na,3991,1,0,0,0,1,1,1,0,0,0,0,0,1,1
+81.5,"Valencia, CA",CA,Consumer Products Manufacturing,Manufacturing,$1 to $2 billion (USD),1001 to 5000 employees,Company - Private,Pharmavite,2.9,49,2,na,5619,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+168.0,"Novato, CA",CA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$500 million to $1 billion (USD),1001 to 5000 employees,Company - Public,BioMarin Pharmaceutical,3.8,23,3,na,6275,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+100.5,"Aurora, CO",CO,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,1 to 50 employees,Company - Private,Stratagem Group,4.3,13,0,na,3549,1,0,1,1,1,1,0,0,1,0,1,0,1,1
+97.0,"New York, NY",NY,Consulting,Business Services,$100 to $500 million (USD),1001 to 5000 employees,Company - Private,PA Consulting,3.4,77,3,na,7548,1,0,1,0,1,1,1,0,1,0,0,0,1,0
+85.0,"Chantilly, VA",VA,Research & Development,Business Services,$1 to $2 billion (USD),5001 to 10000 employees,Company - Public,ManTech,4.1,52,0,na,3490,0,0,0,0,0,1,0,0,1,0,0,0,1,0
+153.5,"Mountain View, CA",CA,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,201 to 500 employees,Company - Private,h2o.ai,4.3,9,0,na,4163,1,0,1,1,1,0,0,0,1,1,0,0,1,0
+132.5,"Tampa, FL",FL,IT Services,Information Technology,Unknown / Non-Applicable,51 to 200 employees,Company - Private,Gridiron IT,5.0,3,0,na,688,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+100.0,"Chicago, IL",IL,Computer Hardware & Software,Information Technology,$10 to $25 million (USD),51 to 200 employees,Company - Private,Productive Edge,4.3,12,3,na,3055,0,0,1,0,1,1,0,0,0,1,0,0,1,0
+105.0,"Denver, CO",CO,Travel Agencies,Travel & Tourism,Unknown / Non-Applicable,201 to 500 employees,Company - Private,Evolve Vacation Rental,3.7,9,0,senior,3353,1,0,0,0,0,1,0,0,0,0,0,0,1,0
+87.0,"Riverton, UT",UT,Religious Organizations,Non-Profit,Unknown / Non-Applicable,10000+ employees,Nonprofit Organization,The Church of Jesus Christ of Latter-day Saints,4.2,-1,0,na,3066,0,0,0,1,1,0,0,0,0,1,0,0,0,0
+103.5,"San Francisco, CA",CA,Real Estate,Real Estate,Unknown / Non-Applicable,51 to 200 employees,Company - Private,Maximus Real Estate Partners,4.3,7,3,na,1806,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+124.0,"Pittsburgh, PA",PA,Colleges & Universities,Education,Unknown / Non-Applicable,501 to 1000 employees,College / University,Software Engineering Institute,2.6,36,0,senior,6130,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+67.0,"Richland, WA",WA,Energy,"Oil, Gas, Energy & Utilities",$500 million to $1 billion (USD),1001 to 5000 employees,Government,PNNL,3.8,55,3,na,6844,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+87.0,"Washington, DC",DC,IT Services,Information Technology,$2 to $5 billion (USD),10000+ employees,Company - Private,AVANADE,3.9,20,3,na,3217,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+137.5,"Chicago, IL",IL,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,201 to 500 employees,Company - Private,h2o.ai,4.3,9,0,na,3405,1,0,1,1,1,0,0,0,1,1,1,0,1,1
+100.0,"Cincinnati, OH",OH,Advertising & Marketing,Business Services,$100 to $500 million (USD),201 to 500 employees,Company - Private,PatientPoint,3.8,33,3,senior,5526,1,0,0,0,1,1,0,0,0,0,0,0,1,1
+106.5,"Chattanooga, TN",TN,Insurance Carriers,Insurance,$5 to $10 billion (USD),5001 to 10000 employees,Nonprofit Organization,BlueCross BlueShield of Tennessee,3.8,75,0,na,5743,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+98.5,"Richland, WA",WA,Energy,"Oil, Gas, Energy & Utilities",$500 million to $1 billion (USD),1001 to 5000 employees,Government,PNNL,3.8,55,3,senior,4904,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+61.0,"Clearwater, FL",FL,Security Services,Business Services,$100 to $500 million (USD),501 to 1000 employees,Company - Private,KnowBe4,4.8,10,0,senior,2934,1,0,0,0,1,1,0,0,0,0,0,0,0,0
+106.5,"Indianapolis, IN",IN,Consulting,Business Services,Unknown / Non-Applicable,51 to 200 employees,Company - Private,KSM Consulting,4.4,12,0,senior,4127,1,0,1,1,0,1,0,0,0,1,0,0,1,0
+84.5,"Cambridge, MA",MA,Internet,Information Technology,Unknown / Non-Applicable,51 to 200 employees,Company - Private,Cogo Labs,3.9,15,0,na,2075,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+109.5,"Ewing, NJ",NJ,Consumer Products Manufacturing,Manufacturing,$2 to $5 billion (USD),1001 to 5000 employees,Company - Public,Church & Dwight,3.4,174,0,na,2962,1,0,0,0,1,0,1,1,0,0,0,0,1,0
+164.0,"Boston, MA",MA,Insurance Carriers,Insurance,$10+ billion (USD),5001 to 10000 employees,Company - Private,MassMutual,3.6,169,0,senior,4414,1,0,1,1,0,1,0,0,1,0,0,0,1,0
+169.0,"South San Francisco, CA",CA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),10000+ employees,Subsidiary or Business Segment,Genentech,3.9,44,0,senior,7106,1,0,1,0,1,1,0,0,1,0,0,0,1,0
+142.0,"Cupertino, CA",CA,Telecommunications Services,Telecommunications,$2 to $5 billion (USD),5001 to 10000 employees,Company - Public,Juniper Networks,3.8,24,0,senior,2397,1,0,1,1,1,0,0,0,0,0,1,0,1,0
+76.5,"Boston, MA",MA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),10000+ employees,Company - Public,Takeda Pharmaceuticals,3.7,239,3,na,2468,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+107.0,"Frederick, MD",MD,Insurance Carriers,Insurance,$500 million to $1 billion (USD),501 to 1000 employees,Company - Private,Legal & General America,3.8,39,0,na,3010,1,0,0,0,1,1,1,0,0,0,0,0,1,0
+171.5,"San Jose, CA",CA,Computer Hardware & Software,Information Technology,$10+ billion (USD),10000+ employees,Company - Public,Western Digital,3.5,50,2,na,4486,1,0,0,1,0,1,0,0,1,1,0,0,1,1
+96.0,"Dallas, TX",TX,Insurance Agencies & Brokerages,Insurance,Unknown / Non-Applicable,201 to 500 employees,Company - Private,Health IQ,3.9,7,0,senior,6909,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+142.5,"San Francisco, CA",CA,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,51 to 200 employees,Company - Private,Nuna,4.2,10,0,na,3512,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+107.0,"Riverton, UT",UT,Religious Organizations,Non-Profit,Unknown / Non-Applicable,10000+ employees,Nonprofit Organization,The Church of Jesus Christ of Latter-day Saints,4.2,-1,0,na,2617,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+145.0,"Marlborough, MA",MA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD),1001 to 5000 employees,Company - Private,Sunovion,3.5,10,3,senior,5391,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+61.5,"Herndon, VA",VA,Colleges & Universities,Education,$25 to $50 million (USD),201 to 500 employees,Nonprofit Organization,National Student Clearinghouse,2.9,27,3,senior,5736,1,0,0,0,1,1,1,1,0,0,0,0,0,0
+20.5,"West Reading, PA",PA,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,5001 to 10000 employees,Nonprofit Organization,Tower Health,3.6,3,0,na,2117,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+120.0,"Madison, WI",WI,Investment Banking & Asset Management,Finance,$50 to $100 million (USD),51 to 200 employees,Government,State of Wisconsin Investment Board,2.7,69,0,na,6467,1,0,0,0,0,1,1,0,0,0,0,0,0,0
+62.0,"Cambridge, MA",MA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),201 to 500 employees,Company - Public,Rubius Therapeutics,4.4,7,0,na,5512,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+150.5,"San Francisco, CA",CA,Computer Hardware & Software,Information Technology,$2 to $5 billion (USD),5001 to 10000 employees,Company - Public,Autodesk,4.0,38,0,senior,2525,1,0,1,0,0,1,0,0,1,0,1,0,1,0
+87.5,"Dearborn, MI",MI,Advertising & Marketing,Business Services,Unknown / Non-Applicable,201 to 500 employees,Company - Private,OneMagnify,4.3,53,0,na,1961,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+71.5,"Winter Park, FL",FL,Advertising & Marketing,Business Services,$25 to $50 million (USD),51 to 200 employees,Company - Public,IZEA,4.2,14,2,na,10051,1,0,1,1,1,1,0,0,1,0,0,0,1,0
+51.5,"San Rafael, CA",CA,"Department, Clothing, & Shoe Stores",Retail,$100 to $500 million (USD),51 to 200 employees,Subsidiary or Business Segment,Vionic Group,3.6,14,0,na,4353,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+151.5,"San Diego, CA",CA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),10000+ employees,Company - Public,Takeda Pharmaceuticals,3.7,239,3,senior,5801,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+77.5,"Hamilton, NJ",NJ,IT Services,Information Technology,Unknown / Non-Applicable,201 to 500 employees,Company - Private,Dodge Data & Analytics,2.8,6,0,senior,5894,1,0,0,0,1,1,1,0,0,0,0,0,1,0
+140.0,"Boston, MA",MA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),10000+ employees,Company - Public,Takeda Pharmaceuticals,3.7,239,3,senior,2309,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+98.5,"Woodbridge, NJ",NJ,Insurance Carriers,Insurance,$10 to $25 million (USD),1001 to 5000 employees,Company - Private,Plymouth Rock Assurance,3.3,38,2,senior,3239,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+225.0,"San Francisco, CA",CA,IT Services,Information Technology,$5 to $10 million (USD),51 to 200 employees,Company - Private,CA-One Tech Cloud,-1.0,3,0,senior,1632,1,0,0,1,1,0,1,0,0,0,0,0,1,0
+27.5,"Lewes, DE",DE,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),1001 to 5000 employees,Nonprofit Organization,Beebe Healthcare,3.6,85,0,na,2724,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+161.5,"Boston, MA",MA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),10000+ employees,Company - Public,Takeda Pharmaceuticals,3.7,239,3,senior,1345,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+147.0,"New York, NY",NY,Insurance Carriers,Insurance,$1 to $2 billion (USD),1001 to 5000 employees,Company - Public,Argo Group US,3.4,72,0,senior,4835,1,0,1,1,0,1,0,0,1,0,1,1,0,0
+61.0,"Springfield, MO",MO,Energy,"Oil, Gas, Energy & Utilities",$1 to $2 billion (USD),501 to 1000 employees,Company - Private,Associated Electric Cooperative,4.1,59,0,na,2886,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+120.0,"Pittsburgh, PA",PA,Colleges & Universities,Education,Unknown / Non-Applicable,501 to 1000 employees,College / University,Software Engineering Institute,2.6,36,0,na,2808,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+124.5,"Phoenix, AZ",AZ,Lending,Finance,$500 million to $1 billion (USD),1001 to 5000 employees,Company - Public,PennyMac,3.2,12,3,na,1925,1,0,0,0,1,1,0,0,0,0,1,0,1,0
+148.0,"Burbank, CA",CA,Financial Analytics & Research,Finance,$50 to $100 million (USD),51 to 200 employees,Company - Private,Zest AI,3.9,11,0,senior,2364,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+59.0,"Huntsville, AL",AL,Aerospace & Defense,Aerospace & Defense,$25 to $50 million (USD),51 to 200 employees,Company - Private,DECISIVE ANALYTICS Corporation,4.7,24,2,na,3088,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+146.5,"Worcester, MA",MA,Insurance Carriers,Insurance,$5 to $10 billion (USD),5001 to 10000 employees,Company - Public,The Hanover Insurance Group,3.7,168,0,senior,5123,1,0,0,0,1,1,0,0,0,0,0,0,1,0
+91.5,"Newton, MA",MA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,201 to 500 employees,Company - Public,Karyopharm Therapeutics Inc.,2.9,-1,0,na,3984,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+133.0,"Chicago, IL",IL,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,501 to 1000 employees,Company - Private,Tempus Labs,3.0,5,0,senior,3280,1,0,0,1,0,1,0,0,0,0,1,1,1,1
+140.5,"Salt Lake City, UT",UT,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $5 million (USD),51 to 200 employees,Company - Private,Recursion Pharmaceuticals,4.7,7,0,senior,4819,1,0,0,1,0,0,0,0,0,0,1,1,1,0
+70.5,"Lafayette, LA",LA,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,501 to 1000 employees,Company - Private,P2 Energy Solutions,3.7,-1,0,na,3670,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+84.5,"Rochester, NY",NY,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),10000+ employees,Hospital,Rochester Regional Health,3.3,6,0,senior,3670,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+93.5,"Annapolis Junction, MD",MD,Computer Hardware & Software,Information Technology,$5 to $10 million (USD),51 to 200 employees,Company - Private,ClearEdge,4.0,18,0,na,4637,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+134.5,"Cambridge, MA",MA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),201 to 500 employees,Company - Public,Rubius Therapeutics,4.4,7,0,senior,4438,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+181.0,"San Francisco, CA",CA,Internet,Information Technology,$10 to $25 million (USD),201 to 500 employees,Company - Private,Tapjoy,3.9,13,2,na,2015,1,0,1,0,0,1,0,0,0,0,1,0,1,0
+84.5,"Rochester, NY",NY,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),10000+ employees,Hospital,Rochester Regional Health,3.3,6,0,senior,3627,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+205.0,"Mountain View, CA",CA,Internet,Information Technology,$50 to $100 million (USD),51 to 200 employees,Company - Private,Credit Sesame,4.1,10,3,senior,4037,1,0,1,1,0,1,0,0,0,0,0,0,1,0
+48.5,"Highland, CA",CA,Gambling,"Arts, Entertainment & Recreation",$100 to $500 million (USD),1001 to 5000 employees,Company - Private,San Manuel Casino,3.6,34,0,na,4608,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+21.5,"Burleson, TX",TX,Health Care Services & Hospitals,Health Care,$50 to $100 million (USD),1001 to 5000 employees,Hospital,Texas Health Huguley Hospital,4.0,43,0,na,5160,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+52.5,"Hoopeston, IL",IL,Food & Beverage Manufacturing,Manufacturing,$100 to $500 million (USD),501 to 1000 employees,Company - Private,Teasdale Latin Foods,2.4,-1,0,na,2433,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+124.0,"Pittsburgh, PA",PA,Colleges & Universities,Education,Unknown / Non-Applicable,501 to 1000 employees,College / University,Software Engineering Institute,2.6,36,0,senior,5379,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+64.0,"Scotts Valley, CA",CA,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),501 to 1000 employees,Nonprofit Organization,Central California Alliance for Health,3.5,24,0,na,3846,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+98.0,"Knoxville, TN",TN,Gas Stations,Retail,$10+ billion (USD),10000+ employees,Company - Private,Pilot Flying J Travel Centers LLC,3.0,62,3,senior,2133,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+27.5,"Millville, DE",DE,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),1001 to 5000 employees,Nonprofit Organization,Beebe Healthcare,3.6,85,0,na,2801,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+54.0,"Milwaukee, WI",WI,Food & Beverage Manufacturing,Manufacturing,Unknown / Non-Applicable,501 to 1000 employees,Company - Private,Palermo's Pizza,3.3,56,0,na,2832,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+81.0,"Rockville, MD",MD,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$25 to $50 million (USD),201 to 500 employees,Company - Private,Advanced BioScience Laboratories,2.7,59,0,na,3776,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+107.5,"Chicago, IL",IL,Transportation Management,Transportation & Logistics,$2 to $5 billion (USD),1001 to 5000 employees,Company - Public,Echo Global Logistics,3.4,15,3,senior,4288,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+112.5,"Chicago, IL",IL,Logistics & Supply Chain,Transportation & Logistics,Unknown / Non-Applicable,501 to 1000 employees,Company - Private,Truckstop.com,3.8,25,0,na,6408,1,0,0,1,1,1,0,0,0,0,0,0,1,0
+89.0,"Herndon, VA",VA,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),10000+ employees,Company - Public,Lockheed Martin,3.7,25,3,na,5298,1,0,1,0,1,1,1,0,1,0,0,0,1,0
+100.5,"Sheboygan, WI",WI,Insurance Carriers,Insurance,$1 to $2 billion (USD),1001 to 5000 employees,Company - Private,Acuity Insurance,4.8,95,0,senior,1806,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+65.0,"New York, NY",NY,Travel Agencies,Travel & Tourism,$2 to $5 billion (USD),1001 to 5000 employees,Company - Private,Fareportal,3.8,18,3,na,2469,0,0,0,0,1,1,1,1,0,0,0,0,0,0
+20.0,"New Orleans, LA",LA,Federal Agencies,Government,Unknown / Non-Applicable,10000+ employees,Government,"Veterans Affairs, Veterans Health Administration",3.4,90,0,na,9322,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+72.5,"Dallas, TX",TX,Consulting,Business Services,Unknown / Non-Applicable,201 to 500 employees,Subsidiary or Business Segment,Credera,4.3,21,0,na,5775,1,0,1,1,1,1,1,1,1,1,0,0,1,1
+61.0,"Clearwater, FL",FL,Security Services,Business Services,$100 to $500 million (USD),501 to 1000 employees,Company - Private,KnowBe4,4.8,10,0,senior,2934,1,0,0,0,1,1,0,0,0,0,0,0,0,0
+109.5,"Ewing, NJ",NJ,Consumer Products Manufacturing,Manufacturing,$2 to $5 billion (USD),1001 to 5000 employees,Company - Public,Church & Dwight,3.4,174,0,na,2962,1,0,0,0,1,0,1,1,0,0,0,0,1,0
+84.5,"Cambridge, MA",MA,Internet,Information Technology,Unknown / Non-Applicable,51 to 200 employees,Company - Private,Cogo Labs,3.9,15,0,na,2075,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+87.5,"Chicago, IL",IL,Advertising & Marketing,Business Services,$10 to $25 million (USD),51 to 200 employees,Company - Private,Spectrum Communications and Consulting,3.4,28,0,na,4082,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+92.5,"San Mateo, CA",CA,Video Games,Media,$10+ billion (USD),1001 to 5000 employees,Company - Public,NCSOFT,3.1,23,3,na,3123,1,1,0,0,1,1,1,0,1,0,0,0,0,0
+81.5,"McLean, VA",VA,Federal Agencies,Government,$1 to $2 billion (USD),5001 to 10000 employees,Nonprofit Organization,MITRE,3.2,62,3,na,3144,1,0,1,0,0,0,0,0,1,0,0,0,1,1
+79.0,"Dayton, OH",OH,Trucking,Transportation & Logistics,Unknown / Non-Applicable,1001 to 5000 employees,Company - Private,"Dayton Freight Lines, Inc.",4.3,39,2,na,1884,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+164.0,"Boston, MA",MA,Insurance Carriers,Insurance,$10+ billion (USD),5001 to 10000 employees,Company - Private,MassMutual,3.6,169,0,senior,4414,1,0,1,1,0,1,0,0,1,0,0,0,1,0
+169.0,"South San Francisco, CA",CA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),10000+ employees,Subsidiary or Business Segment,Genentech,3.9,44,0,senior,7106,1,0,1,0,1,1,0,0,1,0,0,0,1,0
+142.0,"Cupertino, CA",CA,Telecommunications Services,Telecommunications,$2 to $5 billion (USD),5001 to 10000 employees,Company - Public,Juniper Networks,3.8,24,0,senior,2397,1,0,1,1,1,0,0,0,0,0,1,0,1,0
+47.5,"Parlier, CA",CA,Social Assistance,Non-Profit,$50 to $100 million (USD),501 to 1000 employees,Nonprofit Organization,Community Action Partnership of San Luis Obispo,2.8,-1,0,na,5435,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+76.5,"Boston, MA",MA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),10000+ employees,Company - Public,Takeda Pharmaceuticals,3.7,239,3,na,2468,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+69.0,"San Francisco, CA",CA,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,51 to 200 employees,Company - Private,TrueAccord,3.4,7,0,na,5483,1,0,0,0,1,1,1,1,0,0,0,0,1,0
+49.0,"Meridian, ID",ID,Computer Hardware & Software,Information Technology,$50 to $100 million (USD),201 to 500 employees,Company - Private,DRB Systems,4.0,36,0,na,2505,1,1,0,0,1,1,1,0,0,0,0,0,0,0
+171.5,"San Jose, CA",CA,Computer Hardware & Software,Information Technology,$10+ billion (USD),10000+ employees,Company - Public,Western Digital,3.5,50,2,na,4486,1,0,0,1,0,1,0,0,1,1,0,0,1,1
+107.0,"Frederick, MD",MD,Insurance Carriers,Insurance,$500 million to $1 billion (USD),501 to 1000 employees,Company - Private,Legal & General America,3.8,39,0,na,3010,1,0,0,0,1,1,1,0,0,0,0,0,1,0
+59.0,"Cherry Hill, NJ",NJ,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,201 to 500 employees,Company - Private,Corcentric,3.7,24,0,na,2774,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+88.5,"Indianapolis, IN",IN,IT Services,Information Technology,$25 to $50 million (USD),201 to 500 employees,Company - Private,U.Group,3.5,1,0,na,7107,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+107.0,"Riverton, UT",UT,Religious Organizations,Non-Profit,Unknown / Non-Applicable,10000+ employees,Nonprofit Organization,The Church of Jesus Christ of Latter-day Saints,4.2,-1,0,na,2617,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+86.5,"Cambridge, MA",MA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),10000+ employees,Company - Public,Pfizer,4.0,171,0,na,3698,1,0,0,1,1,0,0,0,0,0,0,0,1,0
+84.0,"Louisville, KY",KY,Logistics & Supply Chain,Transportation & Logistics,$10 to $25 million (USD),51 to 200 employees,Nonprofit Organization,SMC 3,4.3,85,0,na,2907,1,0,0,0,1,1,1,0,0,0,0,0,0,0
+114.5,"New York, NY",NY,Consulting,Business Services,$50 to $100 million (USD),201 to 500 employees,Company - Private,Systems Evolution Inc.,4.7,28,0,na,4135,1,0,0,0,1,1,1,0,0,0,0,0,1,0
+145.0,"Marlborough, MA",MA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD),1001 to 5000 employees,Company - Private,Sunovion,3.5,10,3,senior,5391,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+88.0,"Nashville, TN",TN,Internet,Information Technology,$100 to $500 million (USD),1001 to 5000 employees,Company - Public,Eventbrite,4.4,14,3,na,4471,1,0,1,1,1,1,0,0,1,0,0,0,1,0
+100.0,"Chicago, IL",IL,Internet,Information Technology,$100 to $500 million (USD),501 to 1000 employees,Company - Private,Centro,4.1,19,3,na,4948,1,0,1,1,0,1,0,0,1,0,0,0,1,0
+61.5,"Herndon, VA",VA,Colleges & Universities,Education,$25 to $50 million (USD),201 to 500 employees,Nonprofit Organization,National Student Clearinghouse,2.9,27,3,senior,5736,1,0,0,0,1,1,1,1,0,0,0,0,0,0
+96.5,"Portland, OR",OR,Advertising & Marketing,Business Services,$1 to $2 billion (USD),1001 to 5000 employees,Company - Public,comScore,2.5,21,3,na,4466,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+76.0,"Minneapolis, MN",MN,Consulting,Business Services,Unknown / Non-Applicable,201 to 500 employees,Company - Private,SullivanCotter,4.2,28,3,na,2385,1,0,0,0,1,1,0,0,0,0,0,0,0,0
+15.5,"Port Washington, NY",NY,Research & Development,Business Services,$100 to $500 million (USD),1001 to 5000 employees,Company - Private,NPD,3.9,54,0,na,5019,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+83.5,"Austin, TX",TX,Advertising & Marketing,Business Services,Unknown / Non-Applicable,1 to 50 employees,Company - Private,Bakery Agency,4.3,10,0,na,3111,1,0,0,0,1,1,0,0,0,0,0,0,1,0
+120.0,"Madison, WI",WI,Investment Banking & Asset Management,Finance,$50 to $100 million (USD),51 to 200 employees,Government,State of Wisconsin Investment Board,2.7,69,0,na,6467,1,0,0,0,0,1,1,0,0,0,0,0,0,0
+163.0,"South San Francisco, CA",CA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),10000+ employees,Subsidiary or Business Segment,Genentech,3.9,44,0,na,4502,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+100.0,"Providence, RI",RI,Insurance Carriers,Insurance,Unknown / Non-Applicable,501 to 1000 employees,Nonprofit Organization,Blue Cross & Blue Shield of Rhode Island,3.4,81,1,senior,4837,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+52.5,"Omaha, NE",NE,Social Assistance,Non-Profit,Unknown / Non-Applicable,1001 to 5000 employees,Nonprofit Organization,Boys Town,3.8,103,3,na,4837,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+20.5,"West Reading, PA",PA,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,5001 to 10000 employees,Nonprofit Organization,Tower Health,3.6,3,0,na,2117,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+50.0,"Washington, DC",DC,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,501 to 1000 employees,Nonprofit Organization,The HSC Health Care System,3.3,137,0,na,4135,0,0,0,0,1,1,1,1,0,0,0,0,0,0
+93.0,"Austin, TX",TX,Consulting,Business Services,$50 to $100 million (USD),201 to 500 employees,Company - Private,Pro-Sphere Tek,3.4,14,0,na,3799,1,0,0,1,0,1,1,0,1,1,0,0,0,0
+94.5,"Cincinnati, OH",OH,Insurance Agencies & Brokerages,Insurance,$2 to $5 billion (USD),1001 to 5000 employees,Company - Private,Ameritas Life Insurance Corp,3.0,133,0,na,3421,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+150.5,"San Francisco, CA",CA,Computer Hardware & Software,Information Technology,$2 to $5 billion (USD),5001 to 10000 employees,Company - Public,Autodesk,4.0,38,0,senior,2525,1,0,1,0,0,1,0,0,1,0,1,0,1,0
+102.0,"Raleigh, NC",NC,Insurance Carriers,Insurance,$5 to $10 billion (USD),1001 to 5000 employees,Company - Public,Genworth,3.7,16,3,na,5558,1,0,1,1,1,1,1,0,1,1,0,0,0,0
+62.0,"Cambridge, MA",MA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),201 to 500 employees,Company - Public,Rubius Therapeutics,4.4,7,0,na,5512,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+87.5,"Dearborn, MI",MI,Advertising & Marketing,Business Services,Unknown / Non-Applicable,201 to 500 employees,Company - Private,OneMagnify,4.3,53,0,na,1961,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+84.0,"Groton, CT",CT,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),10000+ employees,Company - Public,Pfizer,4.0,171,0,na,5015,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+143.0,"Herndon, VA",VA,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),501 to 1000 employees,Company - Private,Novetta,4.0,8,3,na,3760,1,0,0,1,0,0,0,0,0,0,1,0,1,1
+155.0,"Phila, PA",PA,Staffing & Outsourcing,Business Services,$5 to $10 million (USD),1 to 50 employees,Company - Private,"Numeric, LLC",3.2,-1,0,senior,1817,1,0,1,1,1,0,0,0,1,0,0,0,1,0
+71.5,"Winter Park, FL",FL,Advertising & Marketing,Business Services,$25 to $50 million (USD),51 to 200 employees,Company - Public,IZEA,4.2,14,2,na,10051,1,0,1,1,1,1,0,0,1,0,0,0,1,0
+108.0,"Oakland, CA",CA,Insurance Carriers,Insurance,$10 to $25 million (USD),51 to 200 employees,Company - Private,Trace Data,3.9,20,0,na,3029,1,0,1,0,0,1,0,0,0,0,1,1,1,1
+151.5,"San Diego, CA",CA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),10000+ employees,Company - Public,Takeda Pharmaceuticals,3.7,239,3,senior,5801,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+51.5,"San Rafael, CA",CA,"Department, Clothing, & Shoe Stores",Retail,$100 to $500 million (USD),51 to 200 employees,Subsidiary or Business Segment,Vionic Group,3.6,14,0,na,4353,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+140.0,"Boston, MA",MA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),10000+ employees,Company - Public,Takeda Pharmaceuticals,3.7,239,3,senior,2309,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+77.5,"Hamilton, NJ",NJ,IT Services,Information Technology,Unknown / Non-Applicable,201 to 500 employees,Company - Private,Dodge Data & Analytics,2.8,6,0,senior,5894,1,0,0,0,1,1,1,0,0,0,0,0,1,0
+63.5,"Boise, ID",ID,Investment Banking & Asset Management,Finance,$50 to $100 million (USD),501 to 1000 employees,Company - Private,Clearwater Analytics,4.2,16,0,na,2643,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+109.0,"San Francisco, CA",CA,IT Services,Information Technology,Less than $1 million (USD),1 to 50 employees,Company - Private,"Tekvalley, Corp.",4.0,-1,0,na,714,1,0,0,0,0,1,1,0,0,0,0,0,0,0
+96.0,"Oak Ridge, TN",TN,Aerospace & Defense,Aerospace & Defense,$500 million to $1 billion (USD),5001 to 10000 employees,Company - Public,BWX Technologies,3.5,170,0,na,3796,1,0,0,0,0,0,0,0,0,0,1,1,0,1
+225.0,"San Francisco, CA",CA,IT Services,Information Technology,$5 to $10 million (USD),51 to 200 employees,Company - Private,CA-One Tech Cloud,-1.0,3,0,senior,1632,1,0,0,1,1,0,1,0,0,0,0,0,1,0
+101.0,"Agoura Hills, CA",CA,Lending,Finance,$500 million to $1 billion (USD),1001 to 5000 employees,Company - Public,PennyMac,3.2,12,3,na,2501,1,0,0,1,1,1,1,0,0,0,0,0,0,0
+98.5,"Woodbridge, NJ",NJ,Insurance Carriers,Insurance,$10 to $25 million (USD),1001 to 5000 employees,Company - Private,Plymouth Rock Assurance,3.3,38,2,senior,3239,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+77.5,"Pella, IA",IA,Industrial Manufacturing,Manufacturing,$1 to $2 billion (USD),1001 to 5000 employees,Company - Private,Vermeer,3.9,72,3,na,3490,0,0,0,0,1,1,0,0,1,1,0,0,1,0
+161.5,"Boston, MA",MA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),10000+ employees,Company - Public,Takeda Pharmaceuticals,3.7,239,3,senior,1345,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27.5,"Lewes, DE",DE,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),1001 to 5000 employees,Nonprofit Organization,Beebe Healthcare,3.6,85,0,na,2724,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+147.0,"New York, NY",NY,Insurance Carriers,Insurance,$1 to $2 billion (USD),1001 to 5000 employees,Company - Public,Argo Group US,3.4,72,0,senior,4835,1,0,1,1,0,1,0,0,1,0,1,1,0,0
+90.0,"San Ramon, CA",CA,IT Services,Information Technology,Unknown / Non-Applicable,10000+ employees,Company - Public,L&T Infotech,3.5,23,3,na,1231,1,0,0,0,1,1,1,0,0,0,0,0,1,0
+58.0,"Red Bank, NJ",NJ,Banks & Credit Unions,Finance,$5 to $10 billion (USD),501 to 1000 employees,Company - Public,OceanFirst Financial,4.3,118,0,na,6600,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+61.0,"Springfield, MO",MO,Energy,"Oil, Gas, Energy & Utilities",$1 to $2 billion (USD),501 to 1000 employees,Company - Private,Associated Electric Cooperative,4.1,59,0,na,2886,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+120.0,"Pittsburgh, PA",PA,Colleges & Universities,Education,Unknown / Non-Applicable,501 to 1000 employees,College / University,Software Engineering Institute,2.6,36,0,na,2808,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+128.0,"New York, NY",NY,Auctions & Galleries,Retail,$500 million to $1 billion (USD),1001 to 5000 employees,Company - Public,Sotheby's,3.6,276,0,na,2041,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+99.5,"Hillsboro, OR",OR,Banks & Credit Unions,Finance,$100 to $500 million (USD),1001 to 5000 employees,Company - Private,First Tech Federal Credit Union,3.5,68,0,na,4420,1,0,1,1,1,1,1,0,0,0,1,0,1,0
+96.0,"Detroit, MI",MI,Real Estate,Real Estate,$500 million to $1 billion (USD),1001 to 5000 employees,Company - Private,Amrock,3.6,23,0,na,3342,1,0,0,0,0,1,0,0,0,0,0,0,1,0
+101.0,"Washington, DC",DC,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),201 to 500 employees,Company - Public,Vanda Pharmaceuticals,2.3,17,0,na,1727,1,0,0,0,1,1,1,0,0,0,0,0,1,0
+148.0,"Burbank, CA",CA,Financial Analytics & Research,Finance,$50 to $100 million (USD),51 to 200 employees,Company - Private,Zest AI,3.9,11,0,senior,2364,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+142.0,"Fort Belvoir, VA",VA,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),501 to 1000 employees,Company - Private,Novetta,4.0,8,3,senior,4637,1,0,0,1,0,1,0,0,0,0,0,0,0,0
+169.0,"Palo Alto, CA",CA,K-12 Education,Education,Unknown / Non-Applicable,1 to 50 employees,Company - Private,CK-12 Foundation,4.1,13,0,senior,4743,0,0,0,1,1,1,1,0,0,0,0,0,1,0
+124.5,"Phoenix, AZ",AZ,Lending,Finance,$500 million to $1 billion (USD),1001 to 5000 employees,Company - Public,PennyMac,3.2,12,3,na,1925,1,0,0,0,1,1,0,0,0,0,1,0,1,0
+59.0,"Huntsville, AL",AL,Aerospace & Defense,Aerospace & Defense,$25 to $50 million (USD),51 to 200 employees,Company - Private,DECISIVE ANALYTICS Corporation,4.7,24,2,na,3088,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+52.5,"San Diego, CA",CA,Consulting,Business Services,$10 to $25 million (USD),51 to 200 employees,Company - Private,Opinion Dynamics,4.2,33,0,na,3849,1,0,0,0,0,1,0,0,0,0,0,0,1,0
+75.5,"Houston, TX",TX,IT Services,Information Technology,$50 to $100 million (USD),501 to 1000 employees,Company - Private,Applied Information Sciences,4.6,38,0,na,2047,0,0,1,0,0,1,1,1,1,1,0,0,0,0
+139.0,"Armonk, NY",NY,Insurance Agencies & Brokerages,Insurance,$10+ billion (USD),10000+ employees,Company - Public,Swiss Re,3.7,157,3,senior,4929,1,0,0,0,1,1,0,0,0,0,0,0,1,0
+102.5,"Cambridge, MA",MA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),10000+ employees,Company - Public,Takeda Pharmaceuticals,3.7,239,3,na,4475,1,0,1,1,1,1,1,0,1,0,0,0,0,0
+60.5,"Columbia, SC",SC,Architectural & Engineering Services,Business Services,$25 to $50 million (USD),201 to 500 employees,Company - Private,WK Dickson,4.4,91,3,na,1934,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+146.5,"Worcester, MA",MA,Insurance Carriers,Insurance,$5 to $10 billion (USD),5001 to 10000 employees,Company - Public,The Hanover Insurance Group,3.7,168,0,senior,5123,1,0,0,0,1,1,0,0,0,0,0,0,1,0
+125.0,"South San Francisco, CA",CA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),10000+ employees,Subsidiary or Business Segment,Genentech,3.9,44,0,na,3965,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+81.0,"Springfield, MA",MA,Insurance Carriers,Insurance,$10+ billion (USD),5001 to 10000 employees,Company - Private,MassMutual,3.6,169,0,senior,4898,1,0,0,0,0,1,1,0,0,0,0,0,0,0
+133.0,"Chicago, IL",IL,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,501 to 1000 employees,Company - Private,Tempus Labs,3.0,5,0,senior,3280,1,0,0,1,0,1,0,0,0,0,1,1,1,1
+77.0,"Washington, DC",DC,IT Services,Information Technology,$10+ billion (USD),10000+ employees,Subsidiary or Business Segment,General Dynamics Information Technology,3.4,24,3,na,3256,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+92.0,"Herndon, VA",VA,Research & Development,Business Services,$1 to $2 billion (USD),5001 to 10000 employees,Company - Public,ManTech,4.1,52,0,na,3243,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+121.0,"Cambridge, MA",MA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),10000+ employees,Company - Public,Novartis,3.8,24,0,senior,1937,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+162.5,"San Francisco, CA",CA,Computer Hardware & Software,Information Technology,$2 to $5 billion (USD),5001 to 10000 employees,Company - Public,Autodesk,4.0,38,0,senior,2447,1,0,1,0,1,1,0,0,0,0,0,0,0,0
+60.0,"San Antonio, TX",TX,Research & Development,Business Services,$500 million to $1 billion (USD),1001 to 5000 employees,Nonprofit Organization,Southwest Research Institute,3.9,73,3,na,2026,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+87.5,"San Francisco, CA",CA,-1,-1,Unknown / Non-Applicable,201 to 500 employees,Nonprofit Organization,Muso,-1.0,-1,0,senior,5924,1,0,0,0,1,1,1,0,0,0,0,0,0,0
+90.5,"Indianapolis, IN",IN,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,1 to 50 employees,Company - Private,SpringML,4.4,5,0,na,1868,1,0,1,0,0,0,0,0,1,0,0,0,1,0
+114.5,"Cambridge, MA",MA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),10000+ employees,Company - Public,Novartis,3.8,24,0,na,5045,1,0,0,0,0,0,0,0,0,0,0,1,1,0
+121.0,"Sunnyvale, CA",CA,Telecommunications Services,Telecommunications,$2 to $5 billion (USD),5001 to 10000 employees,Company - Public,Juniper Networks,3.8,24,0,na,2327,1,0,1,0,1,1,0,0,0,0,1,0,1,1
+110.0,"Dallas, TX",TX,Advertising & Marketing,Business Services,$50 to $100 million (USD),501 to 1000 employees,Subsidiary or Business Segment,The Integer Group,2.2,27,3,senior,6612,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+91.5,"Newton, MA",MA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,201 to 500 employees,Company - Public,Karyopharm Therapeutics Inc.,2.9,-1,0,na,3984,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+70.5,"Portsmouth, VA",VA,Research & Development,Business Services,$1 to $2 billion (USD),5001 to 10000 employees,Company - Public,ManTech,4.1,52,0,na,4755,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+70.5,"Lafayette, LA",LA,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,501 to 1000 employees,Company - Private,P2 Energy Solutions,3.7,-1,0,na,3670,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+76.5,"Richland, WA",WA,Energy,"Oil, Gas, Energy & Utilities",$500 million to $1 billion (USD),1001 to 5000 employees,Government,PNNL,3.8,55,3,na,6411,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+92.0,"Springfield, MA",MA,Insurance Carriers,Insurance,$10+ billion (USD),5001 to 10000 employees,Company - Private,MassMutual,3.6,169,0,na,2929,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+140.5,"Salt Lake City, UT",UT,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $5 million (USD),51 to 200 employees,Company - Private,Recursion Pharmaceuticals,4.7,7,0,senior,4819,1,0,0,1,0,0,0,0,0,0,1,1,1,0
+82.0,"Arlington, VA",VA,Computer Hardware & Software,Information Technology,$1 to $2 billion (USD),1001 to 5000 employees,Company - Private,Esri,3.5,51,1,na,4196,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+84.5,"Rochester, NY",NY,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),10000+ employees,Hospital,Rochester Regional Health,3.3,6,0,senior,3670,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+134.5,"Cambridge, MA",MA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),201 to 500 employees,Company - Public,Rubius Therapeutics,4.4,7,0,senior,4438,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+164.5,"San Francisco, CA",CA,Advertising & Marketing,Business Services,Unknown / Non-Applicable,201 to 500 employees,Company - Private,Samba TV,3.3,12,0,na,1688,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+44.0,"West Palm Beach, FL",FL,Telecommunications Manufacturing,Telecommunications,$50 to $100 million (USD),201 to 500 employees,Company - Public,SV Microwave,3.4,29,0,na,2290,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+93.5,"Annapolis Junction, MD",MD,Computer Hardware & Software,Information Technology,$5 to $10 million (USD),51 to 200 employees,Company - Private,ClearEdge,4.0,18,0,na,4637,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+109.0,"Herndon, VA",VA,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,1 to 50 employees,Company - Private,SpringML,4.4,5,0,na,2353,1,0,1,0,0,0,0,0,1,0,0,0,1,0
+149.5,"Austin, TX",TX,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,501 to 1000 employees,Company - Private,Sumo Logic,3.8,10,3,na,3297,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+65.5,"Washington, DC",DC,Research & Development,Business Services,Unknown / Non-Applicable,1001 to 5000 employees,Company - Private,EAB,3.5,13,0,na,4582,0,0,1,1,1,1,0,0,0,0,0,0,0,0
+124.5,"Charlotte, NC",NC,Insurance Carriers,Insurance,Unknown / Non-Applicable,1001 to 5000 employees,Company - Public,Brighthouse Financial,3.5,3,0,senior,3870,1,0,1,0,1,0,0,0,0,0,0,0,1,0
+114.0,"San Jose, CA",CA,Advertising & Marketing,Business Services,Unknown / Non-Applicable,51 to 200 employees,Company - Private,Affinity Solutions,2.9,22,3,na,3333,1,0,1,0,0,1,1,0,0,0,0,0,0,0
+49.0,"Exton, PA",PA,Banks & Credit Unions,Finance,Unknown / Non-Applicable,501 to 1000 employees,Nonprofit Organization,Citadel Federal Credit Union,3.9,83,3,na,3971,1,0,0,0,0,1,1,0,0,0,0,0,0,0
+84.5,"Rochester, NY",NY,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),10000+ employees,Hospital,Rochester Regional Health,3.3,6,0,senior,3627,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+71.0,"Alexandria, VA",VA,IT Services,Information Technology,$100 to $500 million (USD),501 to 1000 employees,Company - Private,CALIBRE Systems,3.7,31,3,na,2632,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+101.0,"Boston, MA",MA,Insurance Carriers,Insurance,$10+ billion (USD),5001 to 10000 employees,Company - Private,MassMutual,3.6,169,0,na,4425,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+107.0,"Redlands, CA",CA,Computer Hardware & Software,Information Technology,$1 to $2 billion (USD),1001 to 5000 employees,Company - Private,Esri,3.5,51,1,na,5000,1,0,1,1,0,0,1,0,1,1,0,0,1,1
+112.5,"Ipswich, MA",MA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,201 to 500 employees,Company - Private,New England Biolabs,4.7,46,3,na,2161,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+181.0,"San Francisco, CA",CA,Internet,Information Technology,$10 to $25 million (USD),201 to 500 employees,Company - Private,Tapjoy,3.9,13,2,na,2015,1,0,1,0,0,1,0,0,0,0,1,0,1,0
+61.0,"Chicago, IL",IL,Computer Hardware & Software,Information Technology,$5 to $10 billion (USD),10000+ employees,Company - Public,Motorola Solutions,3.7,92,3,na,5768,1,0,1,0,0,1,0,0,1,0,0,0,1,0
+205.0,"Mountain View, CA",CA,Internet,Information Technology,$50 to $100 million (USD),51 to 200 employees,Company - Private,Credit Sesame,4.1,10,3,senior,4037,1,0,1,1,0,1,0,0,0,0,0,0,1,0
+103.5,"Owensboro, KY",KY,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),5001 to 10000 employees,Company - Private,Reynolds American,3.1,145,0,na,5182,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+63.0,"Springfield, MA",MA,Insurance Carriers,Insurance,$10+ billion (USD),5001 to 10000 employees,Company - Private,MassMutual,3.6,169,0,na,5647,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+62.5,"Hartford, CT",CT,IT Services,Information Technology,$10+ billion (USD),10000+ employees,Company - Public,Infosys,3.0,39,3,na,3449,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+94.5,"Orange, CA",CA,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,501 to 1000 employees,Company - Private,Alignment Healthcare,3.5,7,0,na,5743,1,0,1,1,1,1,0,0,1,1,0,0,1,0
+48.5,"Highland, CA",CA,Gambling,"Arts, Entertainment & Recreation",$100 to $500 million (USD),1001 to 5000 employees,Company - Private,San Manuel Casino,3.6,34,0,na,4608,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+154.5,"Marlborough, MA",MA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD),1001 to 5000 employees,Company - Private,Sunovion,3.5,10,3,senior,4517,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+21.5,"Burleson, TX",TX,Health Care Services & Hospitals,Health Care,$50 to $100 million (USD),1001 to 5000 employees,Hospital,Texas Health Huguley Hospital,4.0,43,0,na,5160,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+87.0,"Lenexa, KS",KS,Stock Exchanges,Finance,$500 million to $1 billion (USD),501 to 1000 employees,Company - Public,Cboe Global Markets,3.7,47,0,na,2860,1,0,0,0,1,1,0,0,1,0,0,0,1,0
+52.5,"Hoopeston, IL",IL,Food & Beverage Manufacturing,Manufacturing,$100 to $500 million (USD),501 to 1000 employees,Company - Private,Teasdale Latin Foods,2.4,-1,0,na,2433,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+64.5,"New York, NY",NY,Research & Development,Business Services,Unknown / Non-Applicable,501 to 1000 employees,Company - Private,Guidepoint,3.2,17,3,na,2926,1,0,0,1,1,1,0,0,0,1,0,0,0,0
+111.5,"Concord, CA",CA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$25 to $50 million (USD),201 to 500 employees,Company - Public,Cerus Corporation,2.1,-1,0,na,4300,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+154.5,"Cambridge, MA",MA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),10000+ employees,Company - Public,Takeda Pharmaceuticals,3.7,239,3,na,6817,0,0,1,1,1,1,0,0,1,0,0,0,1,1
+124.0,"Pittsburgh, PA",PA,Colleges & Universities,Education,Unknown / Non-Applicable,501 to 1000 employees,College / University,Software Engineering Institute,2.6,36,0,senior,5379,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+128.5,"Chicago, IL",IL,Consulting,Business Services,$50 to $100 million (USD),201 to 500 employees,Company - Private,Maven Wave Partners,4.4,12,0,senior,3160,1,0,0,1,1,1,1,0,1,1,0,0,1,0
+31.5,"Vail, CO",CO,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),501 to 1000 employees,Hospital,Vail Health,3.7,54,0,na,1945,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+64.0,"Scotts Valley, CA",CA,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),501 to 1000 employees,Nonprofit Organization,Central California Alliance for Health,3.5,24,0,na,3846,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+98.0,"Knoxville, TN",TN,Gas Stations,Retail,$10+ billion (USD),10000+ employees,Company - Private,Pilot Flying J Travel Centers LLC,3.0,62,3,senior,2133,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+142.5,"San Francisco, CA",CA,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,51 to 200 employees,Company - Private,Nuna,4.2,10,0,na,3833,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+137.0,"New York, NY",NY,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),10000+ employees,Company - Public,AstraZeneca,3.9,107,3,senior,3169,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+99.0,"Denver, CO",CO,Insurance Carriers,Insurance,$500 million to $1 billion (USD),501 to 1000 employees,Nonprofit Organization,Pinnacol Assurance,4.0,105,0,na,4701,1,0,0,1,0,1,0,0,0,0,0,0,0,0
+54.0,"Milwaukee, WI",WI,Food & Beverage Manufacturing,Manufacturing,Unknown / Non-Applicable,501 to 1000 employees,Company - Private,Palermo's Pizza,3.3,56,0,na,2832,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+139.5,"Natick, MA",MA,Computer Hardware & Software,Information Technology,$1 to $2 billion (USD),1001 to 5000 employees,Company - Private,MathWorks,4.4,36,0,senior,2518,1,0,0,0,0,1,1,1,0,0,0,0,0,0
+109.0,"Rockville, MD",MD,IT Services,Information Technology,$25 to $50 million (USD),201 to 500 employees,Company - Private,MetroStar Systems,3.4,21,0,na,3677,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+254.0,"Chicago, IL",IL,Insurance Carriers,Insurance,$10+ billion (USD),10000+ employees,Company - Private,Liberty Mutual Insurance,3.3,108,3,na,4471,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+73.0,"South San Francisco, CA",CA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,201 to 500 employees,Subsidiary or Business Segment,Audentes Therapeutics,2.9,8,3,na,3725,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+81.0,"Rockville, MD",MD,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$25 to $50 million (USD),201 to 500 employees,Company - Private,Advanced BioScience Laboratories,2.7,59,0,na,3776,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+27.5,"Millville, DE",DE,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),1001 to 5000 employees,Nonprofit Organization,Beebe Healthcare,3.6,85,0,na,2801,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+99.5,"Winston-Salem, NC",NC,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),5001 to 10000 employees,Company - Private,Reynolds American,3.1,145,0,na,7121,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+45.5,"Richfield, OH",OH,Insurance Carriers,Insurance,$500 million to $1 billion (USD),501 to 1000 employees,Company - Private,National Interstate,3.3,31,0,na,2867,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+122.5,"Indianapolis, IN",IN,Consulting,Business Services,$25 to $50 million (USD),51 to 200 employees,Company - Private,Moser Consulting,4.5,24,0,senior,2311,1,0,1,1,0,1,0,0,1,1,0,0,1,0
+140.0,"Chicago, IL",IL,Financial Analytics & Research,Finance,$1 to $2 billion (USD),5001 to 10000 employees,Company - Public,TransUnion,3.9,52,0,senior,5338,1,0,0,0,1,1,0,0,0,0,0,0,1,0
+77.5,"Hampton, VA",VA,Federal Agencies,Government,$1 to $2 billion (USD),5001 to 10000 employees,Nonprofit Organization,MITRE,3.2,62,3,senior,3243,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26.5,"Cambridge, MA",MA,Construction,"Construction, Repair & Maintenance",Unknown / Non-Applicable,1 to 50 employees,Company - Private,Mcphail Associates,3.3,44,0,na,1848,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+117.5,"Winston-Salem, NC",NC,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),5001 to 10000 employees,Company - Private,Reynolds American,3.1,145,0,senior,7361,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+70.5,"San Diego, CA",CA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$50 to $100 million (USD),501 to 1000 employees,Company - Private,Crown Bioscience,2.4,14,0,na,3374,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+61.5,"San Francisco, CA",CA,Computer Hardware & Software,Information Technology,$25 to $50 million (USD),51 to 200 employees,Company - Private,HOVER,4.8,9,0,na,3693,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+70.0,"Ithaca, NY",NY,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,1001 to 5000 employees,Company - Private,Q2 Solutions,2.9,5,0,na,4707,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+80.0,"Marietta, GA",GA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,1001 to 5000 employees,Company - Private,Q2 Solutions,2.9,5,0,senior,4613,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+90.0,"Quincy, MA",MA,Insurance Carriers,Insurance,$100 to $500 million (USD),1001 to 5000 employees,Company - Private,Arbella Insurance,3.4,32,0,na,2752,0,0,1,0,1,1,0,0,1,0,0,0,0,0
+120.0,"Cambridge, MA",MA,-1,-1,Unknown / Non-Applicable,Unknown,Company - Private,Kronos Bio,-1.0,-1,0,na,3309,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+73.5,"Pittsburgh, PA",PA,Colleges & Universities,Education,Unknown / Non-Applicable,501 to 1000 employees,College / University,Software Engineering Institute,2.6,36,0,na,3078,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+91.0,"Fort Lauderdale, FL",FL,Advertising & Marketing,Business Services,Unknown / Non-Applicable,501 to 1000 employees,Subsidiary or Business Segment,Zimmerman Advertising,3.8,36,0,na,2915,1,0,0,0,1,1,1,0,1,0,0,0,1,0
+155.0,"Washington, DC",DC,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,Unknown,Company - Private,BPA Services,5.0,-1,0,na,3213,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+129.5,"Boston, MA",MA,Insurance Carriers,Insurance,$10+ billion (USD),5001 to 10000 employees,Company - Private,MassMutual,3.6,169,0,na,4624,1,0,1,1,1,1,1,0,1,0,0,0,0,0
+167.5,"New York, NY",NY,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),10000+ employees,Company - Public,Pfizer,4.0,171,0,senior,4914,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+60.0,"Green Bay, WI",WI,Banks & Credit Unions,Finance,$1 to $2 billion (USD),1001 to 5000 employees,Company - Public,Associated Banc-Corp,3.8,150,3,na,4103,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+180.0,"Burbank, CA",CA,Financial Analytics & Research,Finance,$50 to $100 million (USD),51 to 200 employees,Company - Private,Zest AI,3.9,11,0,senior,3199,1,0,0,0,1,1,0,0,0,0,0,0,1,0
+65.0,"New York, NY",NY,Travel Agencies,Travel & Tourism,$2 to $5 billion (USD),1001 to 5000 employees,Company - Private,Fareportal,3.8,18,3,na,2501,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+112.5,"Durham, NC",NC,Computer Hardware & Software,Information Technology,$1 to $2 billion (USD),5001 to 10000 employees,Company - Private,Genesys,4.3,30,3,senior,4577,1,0,1,1,0,0,0,0,1,0,0,0,0,0
+87.5,"New York, NY",NY,"Department, Clothing, & Shoe Stores",Retail,$100 to $500 million (USD),201 to 500 employees,Company - Private,Moda Operandi,1.9,10,3,senior,4537,1,0,0,0,1,1,0,0,0,0,0,0,0,0
+51.5,"Indianapolis, IN",IN,Insurance Carriers,Insurance,$10+ billion (USD),10000+ employees,Company - Private,Liberty Mutual Insurance,3.3,108,3,na,4323,1,0,0,0,1,1,0,0,0,0,0,0,0,0
+51.0,"Clovis, CA",CA,Architectural & Engineering Services,Business Services,$10 to $25 million (USD),51 to 200 employees,Company - Private,QK,4.7,48,0,na,4223,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+62.5,"Boston, MA",MA,Banks & Credit Unions,Finance,$10+ billion (USD),10000+ employees,Company - Private,Santander,3.1,164,0,na,3325,1,0,0,0,1,1,0,0,0,0,0,0,0,0
+100.0,"Chandler, AZ",AZ,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,501 to 1000 employees,Company - Public,Tivity Health,3.4,39,0,senior,3889,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+85.0,"Chantilly, VA",VA,IT Services,Information Technology,Unknown / Non-Applicable,51 to 200 employees,Company - Private,BRMi,4.4,16,0,na,2869,1,0,1,1,0,0,0,0,1,1,0,0,0,0
+122.0,"Orlando, FL",FL,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,201 to 500 employees,Company - Private,Luminar Technologies,3.9,8,0,senior,5647,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+66.5,"Chicago, IL",IL,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),501 to 1000 employees,Company - Private,"Emtec, Inc.",3.9,25,0,na,4759,1,0,0,0,0,1,1,1,0,0,0,0,0,0
+70.5,"Columbia, MO",MO,Lending,Finance,Unknown / Non-Applicable,1001 to 5000 employees,Company - Private,Veterans United Home Loans,4.7,18,0,na,2708,0,0,1,0,1,1,1,0,1,0,0,0,0,0
+138.5,"Austin, TX",TX,Security Services,Business Services,$10 to $25 million (USD),51 to 200 employees,Company - Private,Praetorian,4.7,10,0,senior,4854,1,0,1,0,0,1,0,0,0,0,1,0,1,0
+107.5,"Boston, MA",MA,Consulting,Business Services,$100 to $500 million (USD),1001 to 5000 employees,Company - Private,PA Consulting,3.4,77,3,na,8761,0,0,1,0,1,1,1,0,1,0,0,0,1,0
+120.5,"Cambridge, MA",MA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$50 to $100 million (USD),501 to 1000 employees,Company - Public,Agios Pharmaceuticals,3.8,12,0,na,2683,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+81.0,"Rockville, MD",MD,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$25 to $50 million (USD),201 to 500 employees,Company - Private,Advanced BioScience Laboratories,2.7,59,0,na,4740,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+103.5,"Owensboro, KY",KY,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),5001 to 10000 employees,Company - Private,Reynolds American,3.1,145,0,na,5169,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+107.5,"Chicago, IL",IL,Transportation Management,Transportation & Logistics,$2 to $5 billion (USD),1001 to 5000 employees,Company - Public,Echo Global Logistics,3.4,15,3,senior,4288,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+162.0,"San Francisco, CA",CA,Internet,Information Technology,Unknown / Non-Applicable,1001 to 5000 employees,Company - Private,Glassdoor,4.0,13,2,senior,3978,1,0,1,1,1,0,0,0,1,0,0,0,1,0
+68.5,"Redlands, CA",CA,Computer Hardware & Software,Information Technology,$1 to $2 billion (USD),1001 to 5000 employees,Company - Private,Esri,3.5,51,1,na,3413,1,0,1,0,1,0,0,0,0,0,1,1,1,0
+110.5,"Westlake, OH",OH,Insurance Carriers,Insurance,$5 to $10 billion (USD),10000+ employees,Company - Public,Assurant,3.4,42,3,senior,1735,0,0,0,0,1,1,0,0,0,0,1,1,1,0
+81.0,"Peoria, IL",IL,Industrial Manufacturing,Manufacturing,$10+ billion (USD),10000+ employees,Company - Public,Caterpillar,3.7,95,3,na,2739,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+130.0,"Chicago, IL",IL,Real Estate,Real Estate,$2 to $5 billion (USD),1001 to 5000 employees,Company - Public,Equity Residential,4.3,27,3,senior,9120,1,0,1,0,1,1,1,0,1,0,0,0,1,1
+115.5,"Des Moines, IA",IA,Insurance Carriers,Insurance,$100 to $500 million (USD),201 to 500 employees,Subsidiary or Business Segment,F&G,3.7,-1,0,senior,6569,1,0,0,0,1,1,1,0,0,0,0,0,0,0
+80.5,"Richland, WA",WA,Energy,"Oil, Gas, Energy & Utilities",$500 million to $1 billion (USD),1001 to 5000 employees,Government,PNNL,3.8,55,3,senior,5188,0,0,0,0,0,0,0,0,0,0,1,1,1,1
+43.0,"Cedar Rapids, IA",IA,Lending,Finance,$100 to $500 million (USD),501 to 1000 employees,Company - Private,GreatAmerica Financial Services,4.6,28,0,na,4328,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+140.0,"Cambridge, MA",MA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,201 to 500 employees,Company - Public,Acceleron Pharma,4.4,17,0,na,5449,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+120.0,"Cambridge, MA",MA,-1,-1,Unknown / Non-Applicable,Unknown,Company - Private,Kronos Bio,-1.0,-1,0,senior,3214,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+66.5,"Philadelphia, PA",PA,Insurance Carriers,Insurance,$5 to $10 billion (USD),5001 to 10000 employees,Company - Private,AmeriHealth Caritas,3.0,37,3,senior,3766,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+94.5,"San Francisco, CA",CA,Staffing & Outsourcing,Business Services,$1 to $5 million (USD),51 to 200 employees,Company - Private,Strategic Employment Partners,4.7,14,0,senior,1504,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+119.0,"Seattle, WA",WA,Energy,"Oil, Gas, Energy & Utilities",$500 million to $1 billion (USD),1001 to 5000 employees,Government,PNNL,3.8,55,3,senior,5186,0,0,0,0,0,0,0,0,0,0,1,1,1,1
+25.0,"Omaha, NE",NE,Health Care Services & Hospitals,Health Care,$10+ billion (USD),10000+ employees,Nonprofit Organization,Catholic Health Initiatives,3.2,24,2,na,1844,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13.5,"Nashville, TN",TN,Financial Transaction Processing,Finance,$2 to $5 billion (USD),5001 to 10000 employees,Company - Public,FLEETCOR,2.7,20,0,senior,4299,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+194.5,"Chicago, IL",IL,Insurance Carriers,Insurance,$10+ billion (USD),10000+ employees,Company - Private,Liberty Mutual Insurance,3.3,108,3,na,3935,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+71.5,"San Antonio, TX",TX,Research & Development,Business Services,$500 million to $1 billion (USD),1001 to 5000 employees,Nonprofit Organization,Southwest Research Institute,3.9,73,3,senior,2332,1,0,0,1,1,1,0,0,0,1,0,0,0,0
+105.5,"Austin, TX",TX,Colleges & Universities,Education,Unknown / Non-Applicable,501 to 1000 employees,College / University,Applied Research Laboratories,3.7,-1,0,na,8734,1,0,0,1,0,0,0,0,0,0,1,1,1,1
+74.0,"Winston-Salem, NC",NC,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),5001 to 10000 employees,Company - Private,Reynolds American,3.1,145,0,senior,6034,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+62.5,"Huntsville, AL",AL,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),10000+ employees,Company - Public,Raytheon,3.7,98,0,na,4774,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+65.5,"Durham, NC",NC,Research & Development,Business Services,$500 million to $1 billion (USD),1001 to 5000 employees,Nonprofit Organization,RTI International,4.3,62,3,senior,2222,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+161.5,"Fort Lee, NJ",NJ,Advertising & Marketing,Business Services,Unknown / Non-Applicable,1001 to 5000 employees,Company - Private,TRANZACT,3.6,31,0,na,5121,1,0,0,1,1,1,1,1,0,0,0,0,0,0
+72.5,"Blue Bell, PA",PA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),1001 to 5000 employees,Other Organization,United BioSource,2.1,17,2,senior,1359,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+139.0,"San Francisco, CA",CA,Computer Hardware & Software,Information Technology,$10 to $25 million (USD),51 to 200 employees,Company - Public,Figure Eight,3.9,12,0,senior,4915,1,0,0,1,1,0,0,0,0,0,0,0,1,0
+136.5,"San Francisco, CA",CA,Internet,Information Technology,$10 to $25 million (USD),201 to 500 employees,Company - Private,Tapjoy,3.9,13,2,senior,3466,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+74.5,"New York, NY",NY,Travel Agencies,Travel & Tourism,$2 to $5 billion (USD),1001 to 5000 employees,Company - Private,Fareportal,3.8,18,3,na,3172,1,0,1,0,0,0,0,0,0,0,0,0,1,0
+80.5,"Winston-Salem, NC",NC,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),5001 to 10000 employees,Company - Private,Reynolds American,3.1,145,0,senior,5749,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+75.5,"Albuquerque, NM",NM,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD),5001 to 10000 employees,Company - Public,Sartorius,3.5,150,0,na,3543,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+143.5,"Saint Louis, MO",MO,IT Services,Information Technology,Unknown / Non-Applicable,51 to 200 employees,Company - Private,1904labs,4.7,4,2,na,5020,1,0,1,0,0,1,0,0,0,0,1,0,1,0
+101.0,"Springfield, VA",VA,Aerospace & Defense,Aerospace & Defense,$10 to $25 million (USD),51 to 200 employees,Company - Private,Royce Geospatial,5.0,6,0,na,2711,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+92.0,"Springfield, MA",MA,Insurance Carriers,Insurance,$10+ billion (USD),5001 to 10000 employees,Company - Private,MassMutual,3.6,169,0,na,2929,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+76.5,"Richland, WA",WA,Energy,"Oil, Gas, Energy & Utilities",$500 million to $1 billion (USD),1001 to 5000 employees,Government,PNNL,3.8,55,3,na,6411,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+140.5,"Salt Lake City, UT",UT,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $5 million (USD),51 to 200 employees,Company - Private,Recursion Pharmaceuticals,4.7,7,0,senior,4819,1,0,0,1,0,0,0,0,0,0,1,1,1,0
+116.5,"Jersey City, NJ",NJ,Investment Banking & Asset Management,Finance,$10+ billion (USD),10000+ employees,Company - Public,Citi,3.6,208,0,na,3948,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+232.5,"San Francisco, CA",CA,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,501 to 1000 employees,Subsidiary or Business Segment,Sage Intacct,4.7,21,0,senior,3855,1,0,0,0,0,1,0,0,0,0,0,0,1,0
+120.5,"San Francisco, CA",CA,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,51 to 200 employees,Company - Private,Scale AI,3.5,4,0,na,2288,1,0,0,0,0,1,0,0,0,0,0,0,1,0
+82.0,"Arlington, VA",VA,Computer Hardware & Software,Information Technology,$1 to $2 billion (USD),1001 to 5000 employees,Company - Private,Esri,3.5,51,1,na,4196,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+84.5,"Rochester, NY",NY,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),10000+ employees,Hospital,Rochester Regional Health,3.3,6,0,senior,3670,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+153.0,"Emeryville, CA",CA,IT Services,Information Technology,Unknown / Non-Applicable,10000+ employees,Company - Public,Change Healthcare,2.7,13,0,na,6995,1,0,1,1,0,1,0,0,0,0,1,1,1,1
+127.0,"Palo Alto, CA",CA,Internet,Information Technology,Unknown / Non-Applicable,501 to 1000 employees,Company - Private,MZ,3.4,12,0,na,3362,1,0,1,0,0,1,0,0,1,0,0,0,1,0
+85.5,"Santa Barbara, CA",CA,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,51 to 200 employees,Company - Private,HG Insights,4.7,10,0,na,3740,1,0,1,0,1,1,0,0,1,0,1,0,1,0
+76.5,"Carle Place, NY",NY,Wholesale,Business Services,$1 to $2 billion (USD),1001 to 5000 employees,Company - Public,"1-800-FLOWERS.COM, Inc.",2.8,44,0,na,3000,1,0,0,0,1,1,1,0,0,0,0,0,0,0
+128.0,"New York, NY",NY,TV Broadcast & Cable Networks,Media,$500 million to $1 billion (USD),1001 to 5000 employees,Subsidiary or Business Segment,CBS Interactive,3.5,28,3,na,4140,1,0,1,0,0,1,1,0,1,0,1,0,1,0
+91.5,"King of Prussia, PA",PA,Staffing & Outsourcing,Business Services,$5 to $10 million (USD),1 to 50 employees,Company - Private,"Numeric, LLC",3.2,-1,0,na,1484,1,0,1,1,1,1,0,0,1,0,0,0,0,0
+134.5,"Cambridge, MA",MA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),201 to 500 employees,Company - Public,Rubius Therapeutics,4.4,7,0,senior,4438,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+164.5,"San Francisco, CA",CA,Advertising & Marketing,Business Services,Unknown / Non-Applicable,201 to 500 employees,Company - Private,Samba TV,3.3,12,0,na,1688,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+93.5,"Annapolis Junction, MD",MD,Computer Hardware & Software,Information Technology,$5 to $10 million (USD),51 to 200 employees,Company - Private,ClearEdge,4.0,18,0,na,4637,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+44.0,"West Palm Beach, FL",FL,Telecommunications Manufacturing,Telecommunications,$50 to $100 million (USD),201 to 500 employees,Company - Public,SV Microwave,3.4,29,0,na,2290,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+149.5,"Austin, TX",TX,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,501 to 1000 employees,Company - Private,Sumo Logic,3.8,10,3,na,3297,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+65.5,"Washington, DC",DC,Research & Development,Business Services,Unknown / Non-Applicable,1001 to 5000 employees,Company - Private,EAB,3.5,13,0,na,4582,0,0,1,1,1,1,0,0,0,0,0,0,0,0
+109.0,"Herndon, VA",VA,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,1 to 50 employees,Company - Private,SpringML,4.4,5,0,na,2353,1,0,1,0,0,0,0,0,1,0,0,0,1,0
+177.0,"Mountain View, CA",CA,Computer Hardware & Software,Information Technology,$50 to $100 million (USD),1001 to 5000 employees,Subsidiary or Business Segment,Samsung Research America,3.7,32,3,na,3218,1,0,1,1,0,1,0,0,1,0,0,0,0,0
+107.0,"Arlington, VA",VA,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),201 to 500 employees,Company - Private,Systems & Technology Research,4.7,10,0,na,3703,1,0,1,0,1,1,0,0,1,0,1,1,1,1
+154.5,"Santa Clara, CA",CA,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,501 to 1000 employees,Company - Private,Netskope,4.1,8,3,na,4203,1,0,1,0,1,0,0,0,0,0,1,0,1,0
+113.5,"Santa Clara, CA",CA,Accounting,Accounting & Legal,Less than $1 million (USD),1 to 50 employees,Company - Private,Lorven Technologies Inc,4.0,-1,0,na,1034,1,0,1,0,0,1,0,0,0,0,0,0,1,0
+124.5,"Charlotte, NC",NC,Insurance Carriers,Insurance,Unknown / Non-Applicable,1001 to 5000 employees,Company - Public,Brighthouse Financial,3.5,3,0,senior,3870,1,0,1,0,1,0,0,0,0,0,0,0,1,0
+143.5,"Brisbane, CA",CA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,1 to 50 employees,Company - Private,CareDx,2.5,-1,1,na,3885,1,0,0,0,1,1,0,0,0,0,0,0,1,0
+113.5,"San Francisco, CA",CA,IT Services,Information Technology,Less than $1 million (USD),1 to 50 employees,Company - Private,Serigor Inc.,3.9,-1,0,na,2759,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+101.5,"Springfield, VA",VA,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),10000+ employees,Company - Public,Leidos,3.4,51,0,na,2882,1,0,0,1,0,0,0,0,0,0,1,1,0,0
+73.0,"New York, NY",NY,Health Care Products Manufacturing,Manufacturing,$2 to $5 billion (USD),10000+ employees,Subsidiary or Business Segment,Beckman Coulter Diagnostics,3.6,85,3,na,6513,0,0,0,1,1,1,1,1,0,1,0,0,0,0
+80.5,"New York, NY",NY,Consulting,Business Services,$2 to $5 billion (USD),10000+ employees,Company - Public,IHS Markit,3.5,4,2,na,6438,1,0,0,1,0,1,0,0,0,0,0,0,1,0
+110.5,"New York, NY",NY,-1,-1,Unknown / Non-Applicable,Unknown,Company - Private,ALIN,-1.0,-1,0,na,1838,1,0,0,0,0,1,0,0,0,0,1,0,1,1
+114.0,"San Jose, CA",CA,Advertising & Marketing,Business Services,Unknown / Non-Applicable,51 to 200 employees,Company - Private,Affinity Solutions,2.9,22,3,na,3333,1,0,1,0,0,1,1,0,0,0,0,0,0,0
+139.5,"Foster City, CA",CA,"Health, Beauty, & Fitness",Consumer Services,$5 to $10 million (USD),51 to 200 employees,Company - Private,e-IT Professionals Corp.,3.5,-1,0,na,1131,1,0,0,0,0,1,0,0,0,0,0,0,1,0
+145.5,"New York, NY",NY,IT Services,Information Technology,Unknown / Non-Applicable,1 to 50 employees,Company - Private,TechProjects,4.8,9,0,na,2145,1,0,0,0,1,1,1,0,0,0,0,0,0,0
+87.0,"New York, NY",NY,Lending,Finance,$100 to $500 million (USD),201 to 500 employees,Company - Private,Biz2Credit Inc,4.0,13,3,na,2496,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+100.5,"Holyoke, MA",MA,Banks & Credit Unions,Finance,$50 to $100 million (USD),201 to 500 employees,Company - Private,PeoplesBank,4.2,135,0,na,5013,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+147.0,"New York, NY",NY,Enterprise Software & Network Solutions,Information Technology,$10+ billion (USD),10000+ employees,Company - Public,Capgemini,3.8,53,3,na,5478,1,0,1,0,1,1,0,0,1,1,0,0,1,0
+110.5,"New York, NY",NY,Insurance Carriers,Insurance,$100 to $500 million (USD),201 to 500 employees,Company - Private,GNY Insurance Companies,3.7,106,3,na,1506,1,0,0,0,1,1,0,0,0,0,0,0,0,0
+49.0,"Exton, PA",PA,Banks & Credit Unions,Finance,Unknown / Non-Applicable,501 to 1000 employees,Nonprofit Organization,Citadel Federal Credit Union,3.9,83,3,na,3971,1,0,0,0,0,1,1,0,0,0,0,0,0,0
+94.0,"Waltham, MA",MA,Consulting,Business Services,$5 to $10 million (USD),51 to 200 employees,Company - Private,"Conch Technologies, Inc",4.6,-1,0,na,2956,1,0,1,1,0,1,1,1,1,1,0,0,1,0
+123.5,"New York, NY",NY,Enterprise Software & Network Solutions,Information Technology,$500 million to $1 billion (USD),1001 to 5000 employees,Company - Public,Medidata Solutions,4.3,21,1,senior,4816,1,0,0,1,0,1,0,0,0,0,0,0,1,0
+84.5,"Rochester, NY",NY,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),10000+ employees,Hospital,Rochester Regional Health,3.3,6,0,senior,3627,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+71.0,"Alexandria, VA",VA,IT Services,Information Technology,$100 to $500 million (USD),501 to 1000 employees,Company - Private,CALIBRE Systems,3.7,31,3,na,2632,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+73.0,"Corvallis, OR",OR,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,10000+ employees,Company - Public,HP Inc.,4.0,81,0,na,2195,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+101.0,"Boston, MA",MA,Insurance Carriers,Insurance,$10+ billion (USD),5001 to 10000 employees,Company - Private,MassMutual,3.6,169,0,na,4425,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+181.0,"San Francisco, CA",CA,Internet,Information Technology,$10 to $25 million (USD),201 to 500 employees,Company - Private,Tapjoy,3.9,13,2,na,2015,1,0,1,0,0,1,0,0,0,0,1,0,1,0
+109.5,"San Diego, CA",CA,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),10000+ employees,Company - Public,Northrop Grumman,3.7,81,0,na,4448,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+184.5,"Bellevue, WA",WA,IT Services,Information Technology,$10+ billion (USD),10000+ employees,Company - Public,Visa Inc.,3.7,62,3,senior,7286,1,0,0,0,1,1,1,0,0,0,0,0,1,0
+165.0,"New York, NY",NY,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,201 to 500 employees,Company - Private,Quartet Health,3.9,6,0,senior,4815,1,0,0,0,0,0,0,0,1,0,0,0,1,0
+61.0,"Chicago, IL",IL,Computer Hardware & Software,Information Technology,$5 to $10 billion (USD),10000+ employees,Company - Public,Motorola Solutions,3.7,92,3,na,5768,1,0,1,0,0,1,0,0,1,0,0,0,1,0
+205.0,"Mountain View, CA",CA,Internet,Information Technology,$50 to $100 million (USD),51 to 200 employees,Company - Private,Credit Sesame,4.1,10,3,senior,4037,1,0,1,1,0,1,0,0,0,0,0,0,1,0
+59.5,"New York, NY",NY,K-12 Education,Education,$100 to $500 million (USD),1001 to 5000 employees,School / School District,Success Academy Charter Schools,3.1,14,0,na,4348,1,0,0,0,1,1,0,0,0,0,0,0,0,0
+103.5,"Owensboro, KY",KY,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),5001 to 10000 employees,Company - Private,Reynolds American,3.1,145,0,na,5182,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+62.5,"Hartford, CT",CT,IT Services,Information Technology,$10+ billion (USD),10000+ employees,Company - Public,Infosys,3.0,39,3,na,3449,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+63.0,"Springfield, MA",MA,Insurance Carriers,Insurance,$10+ billion (USD),5001 to 10000 employees,Company - Private,MassMutual,3.6,169,0,na,5647,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+66.0,"New York, NY",NY,Health Care Services & Hospitals,Health Care,$10 to $25 million (USD),1 to 50 employees,Company - Private,AXION Healthcare Solutions,3.6,40,2,na,2292,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+94.5,"Orange, CA",CA,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,501 to 1000 employees,Company - Private,Alignment Healthcare,3.5,7,0,na,5743,1,0,1,1,1,1,0,0,1,1,0,0,1,0
+75.5,"New York, NY",NY,Education Training Services,Education,Unknown / Non-Applicable,51 to 200 employees,Company - Private,ExecOnline,4.2,8,3,na,4341,1,0,0,1,0,1,1,0,1,0,0,0,1,0
+87.0,"Fort Belvoir, VA",VA,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),501 to 1000 employees,Company - Public,Mteq,4.0,66,2,na,3127,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+140.0,"Gaithersburg, MD",MD,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),10000+ employees,Company - Public,AstraZeneca,3.9,107,3,senior,4572,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+86.0,"Silver Spring, MD",MD,IT Services,Information Technology,$25 to $50 million (USD),201 to 500 employees,Company - Private,Brillient,3.7,14,0,na,6626,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+116.5,"Palo Alto, CA",CA,Internet,Information Technology,Unknown / Non-Applicable,1 to 50 employees,Company - Private,Entefy,4.4,8,0,senior,1211,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+154.5,"Marlborough, MA",MA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD),1001 to 5000 employees,Company - Private,Sunovion,3.5,10,3,senior,4517,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+87.0,"Lenexa, KS",KS,Stock Exchanges,Finance,$500 million to $1 billion (USD),501 to 1000 employees,Company - Public,Cboe Global Markets,3.7,47,0,na,2860,1,0,0,0,1,1,0,0,1,0,0,0,1,0
+48.5,"Highland, CA",CA,Gambling,"Arts, Entertainment & Recreation",$100 to $500 million (USD),1001 to 5000 employees,Company - Private,San Manuel Casino,3.6,34,0,na,4608,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+80.0,"Houston, TX",TX,IT Services,Information Technology,$1 to $2 billion (USD),501 to 1000 employees,Company - Private,Trace3,3.4,18,3,na,7802,1,0,1,0,1,1,0,0,1,1,0,0,0,0
+21.5,"Burleson, TX",TX,Health Care Services & Hospitals,Health Care,$50 to $100 million (USD),1001 to 5000 employees,Hospital,Texas Health Huguley Hospital,4.0,43,0,na,5160,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+52.5,"Hoopeston, IL",IL,Food & Beverage Manufacturing,Manufacturing,$100 to $500 million (USD),501 to 1000 employees,Company - Private,Teasdale Latin Foods,2.4,-1,0,na,2433,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+173.0,"San Jose, CA",CA,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),10000+ employees,Company - Public,Northrop Grumman,3.7,81,0,senior,5884,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+68.5,"Phoenix, AZ",AZ,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,501 to 1000 employees,Company - Private,Saama Technologies Inc,3.5,23,3,na,1230,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+172.0,"New York, NY",NY,Investment Banking & Asset Management,Finance,Unknown / Non-Applicable,1001 to 5000 employees,Company - Private,Two Sigma,4.4,19,0,na,3222,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+114.5,"Boston, MA",MA,Insurance Carriers,Insurance,$10+ billion (USD),10000+ employees,Company - Private,Liberty Mutual Insurance,3.3,108,3,na,4244,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+95.0,"Gaithersburg, MD",MD,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),10000+ employees,Company - Public,AstraZeneca,3.9,107,3,senior,3110,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+69.5,"Bedford, MA",MA,Federal Agencies,Government,$1 to $2 billion (USD),5001 to 10000 employees,Nonprofit Organization,MITRE,3.2,62,3,na,4478,1,0,0,0,1,1,1,0,0,0,0,0,0,0
+64.5,"New York, NY",NY,Research & Development,Business Services,Unknown / Non-Applicable,501 to 1000 employees,Company - Private,Guidepoint,3.2,17,3,na,2926,1,0,0,1,1,1,0,0,0,1,0,0,0,0
+111.5,"Concord, CA",CA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$25 to $50 million (USD),201 to 500 employees,Company - Public,Cerus Corporation,2.1,-1,0,na,4300,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+97.5,"New York, NY",NY,Consumer Product Rental,Consumer Services,Unknown / Non-Applicable,501 to 1000 employees,Company - Private,Strategic Financial Solutions,4.0,13,2,na,3431,1,0,0,0,1,1,0,0,0,0,0,0,1,0
+154.5,"Cambridge, MA",MA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),10000+ employees,Company - Public,Takeda Pharmaceuticals,3.7,239,3,na,6817,0,0,1,1,1,1,0,0,1,0,0,0,1,1
+124.0,"Pittsburgh, PA",PA,Colleges & Universities,Education,Unknown / Non-Applicable,501 to 1000 employees,College / University,Software Engineering Institute,2.6,36,0,senior,5379,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+95.0,"New York, NY",NY,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,201 to 500 employees,Company - Private,"Remedy BPCI Partners, LLC.",3.4,9,2,na,3111,1,0,1,1,0,1,1,0,0,0,0,0,1,0
+128.5,"Chicago, IL",IL,Consulting,Business Services,$50 to $100 million (USD),201 to 500 employees,Company - Private,Maven Wave Partners,4.4,12,0,senior,3160,1,0,0,1,1,1,1,0,1,1,0,0,1,0
+194.0,"San Francisco, CA",CA,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,501 to 1000 employees,Subsidiary or Business Segment,The Climate Corporation,3.2,14,3,senior,4847,0,0,0,1,1,0,0,0,0,0,0,0,1,0
+104.5,"New York, NY",NY,Advertising & Marketing,Business Services,Unknown / Non-Applicable,201 to 500 employees,Company - Public,Crossix Solutions,3.5,15,0,na,4134,1,0,1,1,1,1,0,0,0,0,0,0,1,0
+31.5,"Vail, CO",CO,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),501 to 1000 employees,Hospital,Vail Health,3.7,54,0,na,1945,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+85.5,"Charlotte, NC",NC,IT Services,Information Technology,Unknown / Non-Applicable,201 to 500 employees,Company - Private,Clarity Insights,4.2,12,0,na,5192,1,0,0,0,1,1,0,0,1,0,0,0,1,0
+50.0,"Salt Lake City, UT",UT,Religious Organizations,Non-Profit,Unknown / Non-Applicable,10000+ employees,Nonprofit Organization,The Church of Jesus Christ of Latter-day Saints,4.2,-1,0,na,4525,0,0,0,1,1,1,0,0,0,0,0,0,0,0
+113.0,"Aliso Viejo, CA",CA,Video Games,Media,$10+ billion (USD),1001 to 5000 employees,Company - Public,NCSOFT,3.1,23,3,na,2421,1,0,1,1,1,1,0,0,0,0,0,0,0,0
+90.5,"Cambridge, MA",MA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),10000+ employees,Company - Public,GSK,3.9,190,3,na,5838,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+153.0,"Los Angeles, CA",CA,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,51 to 200 employees,Company - Private,Factual,4.3,12,1,senior,2095,1,0,1,0,1,0,0,0,0,0,0,0,1,0
+123.5,"Dublin, CA",CA,Consulting,Business Services,$2 to $5 billion (USD),1001 to 5000 employees,Company - Public,TriNet,3.3,32,3,na,7383,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+47.0,"New York, NY",NY,Internet,Information Technology,$10 to $25 million (USD),201 to 500 employees,Company - Private,Signpost,3.9,10,0,senior,2460,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+64.0,"Scotts Valley, CA",CA,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),501 to 1000 employees,Nonprofit Organization,Central California Alliance for Health,3.5,24,0,na,3846,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+162.0,"San Jose, CA",CA,Computer Hardware & Software,Information Technology,$5 to $10 billion (USD),10000+ employees,Company - Public,Adobe,4.0,38,2,na,3864,1,0,0,0,1,1,1,1,1,0,0,0,1,0
+137.0,"New York, NY",NY,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),10000+ employees,Company - Public,AstraZeneca,3.9,107,3,senior,3169,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+98.0,"Knoxville, TN",TN,Gas Stations,Retail,$10+ billion (USD),10000+ employees,Company - Private,Pilot Flying J Travel Centers LLC,3.0,62,3,senior,2133,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+115.0,"Armonk, NY",NY,Insurance Agencies & Brokerages,Insurance,$10+ billion (USD),10000+ employees,Company - Public,Swiss Re,3.7,157,3,na,4734,1,0,0,0,1,1,0,0,0,0,0,0,1,0
+133.5,"Arvada, CO",CO,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD),5001 to 10000 employees,Company - Public,Sartorius,3.5,150,0,senior,3555,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+99.0,"Denver, CO",CO,Insurance Carriers,Insurance,$500 million to $1 billion (USD),501 to 1000 employees,Nonprofit Organization,Pinnacol Assurance,4.0,105,0,na,4701,1,0,0,1,0,1,0,0,0,0,0,0,0,0
+54.0,"Milwaukee, WI",WI,Food & Beverage Manufacturing,Manufacturing,Unknown / Non-Applicable,501 to 1000 employees,Company - Private,Palermo's Pizza,3.3,56,0,na,2832,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+109.0,"Franklin, TN",TN,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,1001 to 5000 employees,Company - Private,Equian LLC,3.2,16,0,senior,1793,0,0,0,1,1,0,0,0,1,1,0,0,0,0
+109.0,"Rockville, MD",MD,IT Services,Information Technology,$25 to $50 million (USD),201 to 500 employees,Company - Private,MetroStar Systems,3.4,21,0,na,3677,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+139.5,"Natick, MA",MA,Computer Hardware & Software,Information Technology,$1 to $2 billion (USD),1001 to 5000 employees,Company - Private,MathWorks,4.4,36,0,senior,2518,1,0,0,0,0,1,1,1,0,0,0,0,0,0
+254.0,"Chicago, IL",IL,Insurance Carriers,Insurance,$10+ billion (USD),10000+ employees,Company - Private,Liberty Mutual Insurance,3.3,108,3,na,4471,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+125.0,"New York, NY",NY,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,1001 to 5000 employees,Company - Private,Information Builders,3.2,45,3,na,3516,1,0,0,1,1,1,0,0,0,1,1,1,1,0
+106.5,"Cambridge, MA",MA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),10000+ employees,Company - Public,Novartis,3.8,24,0,senior,4033,1,0,0,0,0,1,1,0,0,0,0,0,1,0
+73.0,"South San Francisco, CA",CA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,201 to 500 employees,Subsidiary or Business Segment,Audentes Therapeutics,2.9,8,3,na,3725,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+81.0,"Rockville, MD",MD,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$25 to $50 million (USD),201 to 500 employees,Company - Private,Advanced BioScience Laboratories,2.7,59,0,na,3776,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+27.5,"Millville, DE",DE,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),1001 to 5000 employees,Nonprofit Organization,Beebe Healthcare,3.6,85,0,na,2801,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+99.5,"Winston-Salem, NC",NC,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),5001 to 10000 employees,Company - Private,Reynolds American,3.1,145,0,na,7121,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+45.5,"Richfield, OH",OH,Insurance Carriers,Insurance,$500 million to $1 billion (USD),501 to 1000 employees,Company - Private,National Interstate,3.3,31,0,na,2867,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+54.0,"Worcester, MA",MA,Insurance Carriers,Insurance,$5 to $10 billion (USD),5001 to 10000 employees,Company - Public,The Hanover Insurance Group,3.7,168,0,na,3783,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+122.5,"Indianapolis, IN",IN,Consulting,Business Services,$25 to $50 million (USD),51 to 200 employees,Company - Private,Moser Consulting,4.5,24,0,senior,2311,1,0,1,1,0,1,0,0,1,1,0,0,1,0
+37.5,"Tampa, FL",FL,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),1001 to 5000 employees,Subsidiary or Business Segment,Greenway Health,3.0,43,3,na,6175,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+53.5,"New York, NY",NY,Travel Agencies,Travel & Tourism,$2 to $5 billion (USD),1001 to 5000 employees,Company - Private,Fareportal,3.8,18,3,na,2479,1,0,0,0,1,1,0,0,0,0,0,0,0,0
+140.0,"Chicago, IL",IL,Financial Analytics & Research,Finance,$1 to $2 billion (USD),5001 to 10000 employees,Company - Public,TransUnion,3.9,52,0,senior,5338,1,0,0,0,1,1,0,0,0,0,0,0,1,0
+77.5,"Hampton, VA",VA,Federal Agencies,Government,$1 to $2 billion (USD),5001 to 10000 employees,Nonprofit Organization,MITRE,3.2,62,3,senior,3243,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26.5,"Cambridge, MA",MA,Construction,"Construction, Repair & Maintenance",Unknown / Non-Applicable,1 to 50 employees,Company - Private,Mcphail Associates,3.3,44,0,na,1848,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+117.5,"Winston-Salem, NC",NC,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),5001 to 10000 employees,Company - Private,Reynolds American,3.1,145,0,senior,7361,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+70.5,"San Diego, CA",CA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$50 to $100 million (USD),501 to 1000 employees,Company - Private,Crown Bioscience,2.4,14,0,na,3374,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+70.0,"Ithaca, NY",NY,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,1001 to 5000 employees,Company - Private,Q2 Solutions,2.9,5,0,na,4707,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+61.5,"San Francisco, CA",CA,Computer Hardware & Software,Information Technology,$25 to $50 million (USD),51 to 200 employees,Company - Private,HOVER,4.8,9,0,na,3693,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+80.0,"Marietta, GA",GA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,1001 to 5000 employees,Company - Private,Q2 Solutions,2.9,5,0,senior,4613,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+79.5,"Atlanta, GA",GA,Computer Hardware & Software,Information Technology,$25 to $50 million (USD),51 to 200 employees,Company - Private,Oversight Systems,4.7,17,0,na,3081,1,0,0,0,1,1,0,0,0,0,0,1,1,1
+168.0,"Mountain View, CA",CA,Computer Hardware & Software,Information Technology,$100 to $500 million (USD),501 to 1000 employees,Company - Private,Confluent,4.7,6,0,na,3939,1,0,0,0,1,1,1,0,0,0,0,0,1,0
+90.0,"Quincy, MA",MA,Insurance Carriers,Insurance,$100 to $500 million (USD),1001 to 5000 employees,Company - Private,Arbella Insurance,3.4,32,0,na,2752,0,0,1,0,1,1,0,0,1,0,0,0,0,0
+120.0,"Cambridge, MA",MA,-1,-1,Unknown / Non-Applicable,Unknown,Company - Private,Kronos Bio,-1.0,-1,0,na,3309,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+138.5,"San Francisco, CA",CA,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,51 to 200 employees,Company - Public,Life360,3.9,12,0,senior,5717,1,0,0,0,0,1,1,0,0,0,0,0,0,0
+111.5,"Plymouth Meeting, PA",PA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion (USD),10000+ employees,Company - Public,IQVIA,3.6,3,3,senior,5025,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+68.5,"Boston, MA",MA,Insurance Carriers,Insurance,$10+ billion (USD),5001 to 10000 employees,Company - Private,MassMutual,3.6,169,0,na,5016,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+84.5,"Cambridge, MA",MA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),10000+ employees,Company - Public,GSK,3.9,190,3,senior,6162,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+102.5,"Nashville, TN",TN,Internet,Information Technology,$100 to $500 million (USD),1001 to 5000 employees,Company - Public,Eventbrite,4.4,14,3,senior,6130,1,0,1,1,0,1,0,0,1,0,0,0,1,0
+73.5,"Pittsburgh, PA",PA,Colleges & Universities,Education,Unknown / Non-Applicable,501 to 1000 employees,College / University,Software Engineering Institute,2.6,36,0,na,3078,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+93.5,"Beavercreek, OH",OH,Federal Agencies,Government,$50 to $100 million (USD),501 to 1000 employees,Nonprofit Organization,Riverside Research Institute,3.6,53,0,na,3673,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+127.5,"Allentown, PA",PA,Staffing & Outsourcing,Business Services,$5 to $10 million (USD),1 to 50 employees,Company - Private,"Numeric, LLC",3.2,-1,0,na,1642,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+72.0,"Salt Lake City, UT",UT,Religious Organizations,Non-Profit,Unknown / Non-Applicable,10000+ employees,Nonprofit Organization,The Church of Jesus Christ of Latter-day Saints,4.2,-1,0,na,2811,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+129.5,"Boston, MA",MA,Insurance Carriers,Insurance,$10+ billion (USD),5001 to 10000 employees,Company - Private,MassMutual,3.6,169,0,na,4624,1,0,1,1,1,1,1,0,1,0,0,0,0,0
+47.0,"Logan, UT",UT,Consumer Products Manufacturing,Manufacturing,$500 million to $1 billion (USD),1001 to 5000 employees,Company - Private,Icon Health and Fitness,3.1,43,3,na,4386,1,0,0,0,1,1,1,0,0,0,0,0,0,0
+65.0,"Birmingham, AL",AL,Consumer Product Rental,Consumer Services,Unknown / Non-Applicable,501 to 1000 employees,Subsidiary or Business Segment,Shipt,3.8,6,0,na,3585,1,0,1,1,1,1,0,0,0,0,0,0,0,0
+60.0,"Green Bay, WI",WI,Banks & Credit Unions,Finance,$1 to $2 billion (USD),1001 to 5000 employees,Company - Public,Associated Banc-Corp,3.8,150,3,na,4103,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+167.5,"New York, NY",NY,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),10000+ employees,Company - Public,Pfizer,4.0,171,0,senior,4914,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+65.0,"New York, NY",NY,Travel Agencies,Travel & Tourism,$2 to $5 billion (USD),1001 to 5000 employees,Company - Private,Fareportal,3.8,18,3,na,2501,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+94.0,"Herndon, VA",VA,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),501 to 1000 employees,Company - Private,Novetta,4.0,8,3,senior,4096,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+87.5,"New York, NY",NY,"Department, Clothing, & Shoe Stores",Retail,$100 to $500 million (USD),201 to 500 employees,Company - Private,Moda Operandi,1.9,10,3,senior,4537,1,0,0,0,1,1,0,0,0,0,0,0,0,0
+97.0,"Reston, VA",VA,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),501 to 1000 employees,Company - Private,Novetta,4.0,8,3,senior,6152,1,0,1,1,0,1,0,0,1,0,0,0,0,0
+112.5,"Durham, NC",NC,Computer Hardware & Software,Information Technology,$1 to $2 billion (USD),5001 to 10000 employees,Company - Private,Genesys,4.3,30,3,senior,4577,1,0,1,1,0,0,0,0,1,0,0,0,0,0
+91.5,"Boston, MA",MA,Insurance Carriers,Insurance,$10+ billion (USD),5001 to 10000 employees,Company - Private,MassMutual,3.6,169,0,na,4260,0,0,1,1,1,1,0,0,1,0,0,0,0,0
+51.5,"Indianapolis, IN",IN,Insurance Carriers,Insurance,$10+ billion (USD),10000+ employees,Company - Private,Liberty Mutual Insurance,3.3,108,3,na,4323,1,0,0,0,1,1,0,0,0,0,0,0,0,0
+114.5,"Cambridge, MA",MA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),10000+ employees,Company - Public,Novartis,3.8,24,0,na,1768,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+115.0,"New York, NY",NY,Consulting,Business Services,$10 to $25 million (USD),201 to 500 employees,Company - Private,USEReady,4.3,9,0,na,1382,1,0,1,1,0,1,1,0,1,1,0,0,1,0
+74.0,"Phila, PA",PA,Staffing & Outsourcing,Business Services,$5 to $10 million (USD),1 to 50 employees,Company - Private,"Numeric, LLC",3.2,-1,0,na,1790,1,0,0,1,0,1,0,0,0,1,0,0,0,0
+51.0,"Clovis, CA",CA,Architectural & Engineering Services,Business Services,$10 to $25 million (USD),51 to 200 employees,Company - Private,QK,4.7,48,0,na,4223,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+100.0,"Chandler, AZ",AZ,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,501 to 1000 employees,Company - Public,Tivity Health,3.4,39,0,senior,3889,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+121.0,"Cambridge, MA",MA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),10000+ employees,Company - Public,Novartis,3.8,24,0,senior,1919,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+121.5,"San Francisco, CA",CA,Computer Hardware & Software,Information Technology,$100 to $500 million (USD),201 to 500 employees,Company - Private,Demandbase,4.5,14,3,senior,3726,0,0,0,0,0,1,1,1,0,0,0,0,1,0
+62.5,"Boston, MA",MA,Banks & Credit Unions,Finance,$10+ billion (USD),10000+ employees,Company - Private,Santander,3.1,164,0,na,3325,1,0,0,0,1,1,0,0,0,0,0,0,0,0
+117.5,"Cambridge, MA",MA,-1,-1,-1,-1,-1,Monte Rosa Therapeutics,-1.0,-1,0,na,3437,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+122.0,"Orlando, FL",FL,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,201 to 500 employees,Company - Private,Luminar Technologies,3.9,8,0,senior,5647,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+85.0,"Chantilly, VA",VA,IT Services,Information Technology,Unknown / Non-Applicable,51 to 200 employees,Company - Private,BRMi,4.4,16,0,na,2869,1,0,1,1,0,0,0,0,1,1,0,0,0,0
+60.5,"Scottsdale, AZ",AZ,IT Services,Information Technology,$50 to $100 million (USD),501 to 1000 employees,Company - Private,IntraEdge,3.4,18,0,na,1214,1,0,1,1,0,1,0,0,0,0,0,0,0,0
+180.0,"Burbank, CA",CA,Financial Analytics & Research,Finance,$50 to $100 million (USD),51 to 200 employees,Company - Private,Zest AI,3.9,11,0,senior,3199,1,0,0,0,1,1,0,0,0,0,0,0,1,0
+70.5,"Columbia, MO",MO,Lending,Finance,Unknown / Non-Applicable,1001 to 5000 employees,Company - Private,Veterans United Home Loans,4.7,18,0,na,2708,0,0,1,0,1,1,1,0,1,0,0,0,0,0
+118.5,"Chantilly, VA",VA,Aerospace & Defense,Aerospace & Defense,$1 to $2 billion (USD),1001 to 5000 employees,Company - Private,Peraton,3.3,3,0,na,3392,1,0,1,0,0,1,0,0,1,0,0,0,0,0
+66.5,"Chicago, IL",IL,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),501 to 1000 employees,Company - Private,"Emtec, Inc.",3.9,25,0,na,4759,1,0,0,0,0,1,1,1,0,0,0,0,0,0
+107.5,"Boston, MA",MA,Consulting,Business Services,$100 to $500 million (USD),1001 to 5000 employees,Company - Private,PA Consulting,3.4,77,3,na,8761,0,0,1,0,1,1,1,0,1,0,0,0,1,0
+138.5,"Austin, TX",TX,Security Services,Business Services,$10 to $25 million (USD),51 to 200 employees,Company - Private,Praetorian,4.7,10,0,senior,4854,1,0,1,0,0,1,0,0,0,0,1,0,1,0
+81.0,"Rockville, MD",MD,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$25 to $50 million (USD),201 to 500 employees,Company - Private,Advanced BioScience Laboratories,2.7,59,0,na,4740,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+58.5,"Bloomington, IL",IL,Insurance Carriers,Insurance,$2 to $5 billion (USD),1001 to 5000 employees,Company - Private,COUNTRY Financial,3.8,95,3,na,2327,1,0,1,0,1,1,0,0,1,0,0,0,1,0
+107.5,"Chicago, IL",IL,Transportation Management,Transportation & Logistics,$2 to $5 billion (USD),1001 to 5000 employees,Company - Public,Echo Global Logistics,3.4,15,3,senior,4288,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+120.5,"Cambridge, MA",MA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$50 to $100 million (USD),501 to 1000 employees,Company - Public,Agios Pharmaceuticals,3.8,12,0,na,2683,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+63.5,"San Francisco, CA",CA,Internet,Information Technology,$10 to $25 million (USD),201 to 500 employees,Company - Private,Tapjoy,3.9,13,2,na,2340,1,0,1,0,0,1,0,0,0,0,1,0,1,1
+103.5,"Owensboro, KY",KY,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),5001 to 10000 employees,Company - Private,Reynolds American,3.1,145,0,na,5169,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+107.0,"Fremont, CA",CA,Computer Hardware & Software,Information Technology,$1 to $2 billion (USD),5001 to 10000 employees,Company - Public,Mentor Graphics,4.1,39,3,na,3329,1,0,0,0,1,0,0,0,0,0,1,0,1,0
+105.5,"Springfield, VA",VA,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD),5001 to 10000 employees,Company - Public,Maxar Technologies,3.7,-1,0,na,2672,1,0,1,0,0,1,0,0,1,0,0,0,1,0
+83.0,"San Diego, CA",CA,Insurance Carriers,Insurance,$500 million to $1 billion (USD),501 to 1000 employees,Company - Private,ICW Group,2.8,48,3,na,3828,0,0,0,0,0,1,1,1,0,0,0,0,0,0
+162.0,"San Francisco, CA",CA,Internet,Information Technology,Unknown / Non-Applicable,1001 to 5000 employees,Company - Private,Glassdoor,4.0,13,2,senior,3978,1,0,1,1,1,0,0,0,1,0,0,0,1,0
+68.5,"Redlands, CA",CA,Computer Hardware & Software,Information Technology,$1 to $2 billion (USD),1001 to 5000 employees,Company - Private,Esri,3.5,51,1,na,3413,1,0,1,0,1,0,0,0,0,0,1,1,1,0
+110.5,"Westlake, OH",OH,Insurance Carriers,Insurance,$5 to $10 billion (USD),10000+ employees,Company - Public,Assurant,3.4,42,3,senior,1735,0,0,0,0,1,1,0,0,0,0,1,1,1,0
+115.5,"Des Moines, IA",IA,Insurance Carriers,Insurance,$100 to $500 million (USD),201 to 500 employees,Subsidiary or Business Segment,F&G,3.7,-1,0,senior,6569,1,0,0,0,1,1,1,0,0,0,0,0,0,0
+87.5,"Alameda, CA",CA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,501 to 1000 employees,Company - Public,Exelixis,3.0,26,3,na,4586,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+80.5,"Richland, WA",WA,Energy,"Oil, Gas, Energy & Utilities",$500 million to $1 billion (USD),1001 to 5000 employees,Government,PNNL,3.8,55,3,senior,5188,0,0,0,0,0,0,0,0,0,0,1,1,1,1
+43.0,"Cedar Rapids, IA",IA,Lending,Finance,$100 to $500 million (USD),501 to 1000 employees,Company - Private,GreatAmerica Financial Services,4.6,28,0,na,4328,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+140.0,"Cambridge, MA",MA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,201 to 500 employees,Company - Public,Acceleron Pharma,4.4,17,0,na,5449,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+172.0,"Cambridge, MA",MA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),10000+ employees,Company - Public,Pfizer,4.0,171,0,na,5701,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+120.0,"Cambridge, MA",MA,-1,-1,Unknown / Non-Applicable,Unknown,Company - Private,Kronos Bio,-1.0,-1,0,senior,3214,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+66.5,"Philadelphia, PA",PA,Insurance Carriers,Insurance,$5 to $10 billion (USD),5001 to 10000 employees,Company - Private,AmeriHealth Caritas,3.0,37,3,senior,3766,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+100.0,"Alameda, CA",CA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,501 to 1000 employees,Company - Public,Exelixis,3.0,26,3,senior,7777,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+94.5,"San Francisco, CA",CA,Staffing & Outsourcing,Business Services,$1 to $5 million (USD),51 to 200 employees,Company - Private,Strategic Employment Partners,4.7,14,0,senior,1504,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+221.5,"San Francisco, CA",CA,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,501 to 1000 employees,Company - Private,Grand Rounds,4.2,9,0,na,4951,1,0,0,0,1,1,0,0,0,1,0,0,1,0
+119.0,"Seattle, WA",WA,Energy,"Oil, Gas, Energy & Utilities",$500 million to $1 billion (USD),1001 to 5000 employees,Government,PNNL,3.8,55,3,senior,5186,0,0,0,0,0,0,0,0,0,0,1,1,1,1
+95.5,"Chicago, IL",IL,Consulting,Business Services,$50 to $100 million (USD),201 to 500 employees,Company - Private,"SPINS, LLC",3.5,25,0,na,3119,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+194.5,"Chicago, IL",IL,Insurance Carriers,Insurance,$10+ billion (USD),10000+ employees,Company - Private,Liberty Mutual Insurance,3.3,108,3,na,3935,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+25.0,"Omaha, NE",NE,Health Care Services & Hospitals,Health Care,$10+ billion (USD),10000+ employees,Nonprofit Organization,Catholic Health Initiatives,3.2,24,2,na,1844,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13.5,"Nashville, TN",TN,Financial Transaction Processing,Finance,$2 to $5 billion (USD),5001 to 10000 employees,Company - Public,FLEETCOR,2.7,20,0,senior,4299,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+173.0,"Jersey City, NJ",NJ,Brokerage Services,Finance,$1 to $2 billion (USD),1001 to 5000 employees,Company - Private,DTCC,3.3,47,0,senior,4183,1,0,0,0,1,1,0,0,0,0,0,0,0,0
+105.5,"Austin, TX",TX,Colleges & Universities,Education,Unknown / Non-Applicable,501 to 1000 employees,College / University,Applied Research Laboratories,3.7,-1,0,na,8734,1,0,0,1,0,0,0,0,0,0,1,1,1,1
+71.5,"San Antonio, TX",TX,Research & Development,Business Services,$500 million to $1 billion (USD),1001 to 5000 employees,Nonprofit Organization,Southwest Research Institute,3.9,73,3,senior,2332,1,0,0,1,1,1,0,0,0,1,0,0,0,0
+74.0,"Winston-Salem, NC",NC,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),5001 to 10000 employees,Company - Private,Reynolds American,3.1,145,0,senior,6034,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+62.5,"Huntsville, AL",AL,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),10000+ employees,Company - Public,Raytheon,3.7,98,0,na,4774,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+65.5,"Durham, NC",NC,Research & Development,Business Services,$500 million to $1 billion (USD),1001 to 5000 employees,Nonprofit Organization,RTI International,4.3,62,3,senior,2222,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+85.0,"Coraopolis, PA",PA,Sporting Goods Stores,Retail,$5 to $10 billion (USD),10000+ employees,Company - Public,DICK'S Sporting Goods - Corporate,3.8,72,3,na,2493,1,0,0,0,0,1,0,0,0,0,1,1,1,1
+147.5,"Gaithersburg, MD",MD,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),10000+ employees,Company - Public,AstraZeneca,3.9,107,3,senior,4490,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+161.5,"Fort Lee, NJ",NJ,Advertising & Marketing,Business Services,Unknown / Non-Applicable,1001 to 5000 employees,Company - Private,TRANZACT,3.6,31,0,na,5121,1,0,0,1,1,1,1,1,0,0,0,0,0,0
+81.0,"Roanoke, VA",VA,Health Care Services & Hospitals,Health Care,$1 to $2 billion (USD),10000+ employees,Nonprofit Organization,Carilion Clinic,3.7,121,0,na,2948,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+72.5,"Blue Bell, PA",PA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),1001 to 5000 employees,Other Organization,United BioSource,2.1,17,2,senior,1359,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+139.0,"San Francisco, CA",CA,Computer Hardware & Software,Information Technology,$10 to $25 million (USD),51 to 200 employees,Company - Public,Figure Eight,3.9,12,0,senior,4915,1,0,0,1,1,0,0,0,0,0,0,0,1,0
+136.5,"San Francisco, CA",CA,Internet,Information Technology,$10 to $25 million (USD),201 to 500 employees,Company - Private,Tapjoy,3.9,13,2,senior,3466,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+83.0,"New York, NY",NY,Internet,Information Technology,Unknown / Non-Applicable,201 to 500 employees,Company - Private,DoubleVerify,3.2,12,0,senior,2689,1,0,1,0,1,1,0,0,0,0,0,0,0,0
+121.0,"Cambridge, MA",MA,Research & Development,Business Services,$5 to $10 million (USD),51 to 200 employees,Subsidiary or Business Segment,Mitsubishi Electric Research Labs,4.6,29,3,senior,3709,0,0,0,1,1,0,0,0,0,0,1,1,1,1
+74.5,"New York, NY",NY,Travel Agencies,Travel & Tourism,$2 to $5 billion (USD),1001 to 5000 employees,Company - Private,Fareportal,3.8,18,3,na,3172,1,0,1,0,0,0,0,0,0,0,0,0,1,0
+85.5,"San Francisco, CA",CA,Beauty & Personal Accessories Stores,Retail,Unknown / Non-Applicable,501 to 1000 employees,Company - Private,"Rodan and Fields, LLC",2.2,18,0,na,4402,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+80.5,"Winston-Salem, NC",NC,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),5001 to 10000 employees,Company - Private,Reynolds American,3.1,145,0,senior,5749,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+167.5,"Cambridge, MA",MA,Research & Development,Business Services,$5 to $10 million (USD),51 to 200 employees,Subsidiary or Business Segment,Mitsubishi Electric Research Labs,4.6,29,3,senior,3180,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+107.5,"Pittsburgh, PA",PA,Colleges & Universities,Education,Unknown / Non-Applicable,501 to 1000 employees,College / University,Software Engineering Institute,2.6,36,0,na,2011,1,0,0,0,0,1,0,0,0,0,0,0,1,0
+44.5,"Seattle, WA",WA,Social Assistance,Non-Profit,$25 to $50 million (USD),501 to 1000 employees,Nonprofit Organization,DESC,3.4,41,0,na,4087,0,0,0,1,1,1,0,0,0,0,0,0,0,0
+107.5,"Glen Burnie, MD",MD,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),1001 to 5000 employees,Company - Private,Johns Hopkins Health Care,3.3,131,3,senior,2606,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+132.5,"Cambridge, MA",MA,-1,-1,Unknown / Non-Applicable,Unknown,Company - Private,Kronos Bio,-1.0,-1,0,senior,3082,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+69.5,"Philadelphia, PA",PA,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),201 to 500 employees,Company - Private,Community Behavioral Health,3.7,26,0,senior,1865,0,0,0,0,1,1,1,1,0,0,0,0,0,0
+98.5,"Milpitas, CA",CA,Computer Hardware & Software,Information Technology,$10+ billion (USD),10000+ employees,Company - Public,Western Digital,3.5,50,2,senior,3926,1,0,1,1,0,1,0,0,1,0,0,0,0,0
+80.5,"Rockville, MD",MD,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$25 to $50 million (USD),201 to 500 employees,Company - Private,Advanced BioScience Laboratories,2.7,59,0,na,3570,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+37.0,"Watertown, MA",MA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10 to $25 million (USD),51 to 200 employees,Company - Private,FORMA THERAPEUTICS,3.8,12,0,na,3747,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+99.0,"Cambridge, MD",MD,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),10000+ employees,Company - Public,Raytheon,3.7,98,0,na,4431,1,0,0,0,0,1,0,0,0,0,0,0,1,0
+96.5,"Cambridge, MA",MA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$50 to $100 million (USD),501 to 1000 employees,Company - Public,Agios Pharmaceuticals,3.8,12,0,na,4465,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+53.0,"Boston, MA",MA,Insurance Carriers,Insurance,$10+ billion (USD),10000+ employees,Company - Private,Liberty Mutual Insurance,3.3,108,3,na,3448,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+103.0,"Los Angeles, CA",CA,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,1 to 50 employees,Company - Private,Bridg,2.7,9,0,senior,4571,0,0,1,1,0,0,0,0,1,0,0,0,1,0
+139.5,"Palo Alto, CA",CA,Financial Transaction Processing,Finance,$50 to $100 million (USD),501 to 1000 employees,Company - Public,Bill.com,3.8,14,0,senior,2933,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+67.0,"Richland, WA",WA,Energy,"Oil, Gas, Energy & Utilities",$500 million to $1 billion (USD),1001 to 5000 employees,Government,Pacific Northwest National Laboratory,3.8,55,3,na,4945,0,0,0,0,0,0,0,0,0,0,1,1,1,1
+62.5,"Hartford, CT",CT,IT Services,Information Technology,$10+ billion (USD),10000+ employees,Company - Public,Infosys,3.0,39,3,na,3449,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+92.0,"Gaithersburg, MD",MD,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),10000+ employees,Company - Public,AstraZeneca,3.9,107,3,na,2391,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+66.0,"New York, NY",NY,Health Care Services & Hospitals,Health Care,$10 to $25 million (USD),1 to 50 employees,Company - Private,AXION Healthcare Solutions,3.6,40,2,na,2292,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+94.5,"Orange, CA",CA,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,501 to 1000 employees,Company - Private,Alignment Healthcare,3.5,7,0,na,5743,1,0,1,1,1,1,0,0,1,1,0,0,1,0
+114.0,"Fort Lee, NJ",NJ,Advertising & Marketing,Business Services,Unknown / Non-Applicable,1001 to 5000 employees,Company - Private,TRANZACT,3.6,31,0,na,4648,1,0,0,1,1,1,1,1,1,0,0,0,1,0
+75.5,"New York, NY",NY,Education Training Services,Education,Unknown / Non-Applicable,51 to 200 employees,Company - Private,ExecOnline,4.2,8,3,na,4341,1,0,0,1,0,1,1,0,1,0,0,0,1,0
+96.0,"Maryland Heights, MO",MO,K-12 Education,Education,$5 to $10 million (USD),1 to 50 employees,School / School District,Charter Spectrum,3.5,-1,0,na,3775,0,0,0,0,1,1,0,0,1,0,0,0,0,0
+87.0,"Fort Belvoir, VA",VA,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),501 to 1000 employees,Company - Public,Mteq,4.0,66,2,na,3127,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+86.0,"Silver Spring, MD",MD,IT Services,Information Technology,$25 to $50 million (USD),201 to 500 employees,Company - Private,Brillient,3.7,14,0,na,6626,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+116.5,"Palo Alto, CA",CA,Internet,Information Technology,Unknown / Non-Applicable,1 to 50 employees,Company - Private,Entefy,4.4,8,0,senior,1211,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+154.5,"Marlborough, MA",MA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD),1001 to 5000 employees,Company - Private,Sunovion,3.5,10,3,senior,4517,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+48.5,"Highland, CA",CA,Gambling,"Arts, Entertainment & Recreation",$100 to $500 million (USD),1001 to 5000 employees,Company - Private,San Manuel Casino,3.6,34,0,na,4608,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+87.0,"Lenexa, KS",KS,Stock Exchanges,Finance,$500 million to $1 billion (USD),501 to 1000 employees,Company - Public,Cboe Global Markets,3.7,47,0,na,2860,1,0,0,0,1,1,0,0,1,0,0,0,1,0
+80.0,"Houston, TX",TX,IT Services,Information Technology,$1 to $2 billion (USD),501 to 1000 employees,Company - Private,Trace3,3.4,18,3,na,7802,1,0,1,0,1,1,0,0,1,1,0,0,0,0
+21.5,"Burleson, TX",TX,Health Care Services & Hospitals,Health Care,$50 to $100 million (USD),1001 to 5000 employees,Hospital,Texas Health Huguley Hospital,4.0,43,0,na,5160,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+173.0,"San Jose, CA",CA,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),10000+ employees,Company - Public,Northrop Grumman,3.7,81,0,senior,5884,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+52.5,"Hoopeston, IL",IL,Food & Beverage Manufacturing,Manufacturing,$100 to $500 million (USD),501 to 1000 employees,Company - Private,Teasdale Latin Foods,2.4,-1,0,na,2433,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+68.5,"Phoenix, AZ",AZ,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,501 to 1000 employees,Company - Private,Saama Technologies Inc,3.5,23,3,na,1230,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+95.0,"Gaithersburg, MD",MD,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),10000+ employees,Company - Public,AstraZeneca,3.9,107,3,senior,3110,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+69.5,"Bedford, MA",MA,Federal Agencies,Government,$1 to $2 billion (USD),5001 to 10000 employees,Nonprofit Organization,MITRE,3.2,62,3,na,4478,1,0,0,0,1,1,1,0,0,0,0,0,0,0
+107.0,"Cincinnati, OH",OH,Metals Brokers,Mining & Metals,Unknown / Non-Applicable,201 to 500 employees,Subsidiary or Business Segment,The David J. Joseph Company,4.4,135,0,senior,4804,1,0,0,1,0,1,1,0,0,0,0,0,1,0
+112.0,"Charlottesville, VA",VA,IT Services,Information Technology,$100 to $500 million (USD),501 to 1000 employees,Company - Private,The Buffalo Group,3.9,10,3,senior,4427,1,0,1,0,0,1,0,0,1,0,0,0,1,0
+96.5,"Washington, DC",DC,Consulting,Business Services,$10 to $25 million (USD),51 to 200 employees,Company - Private,CompQsoft,3.4,23,0,na,4662,1,0,0,0,0,0,0,0,0,0,1,0,1,0
+111.5,"Concord, CA",CA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$25 to $50 million (USD),201 to 500 employees,Company - Public,Cerus Corporation,2.1,-1,0,na,4300,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+154.5,"Cambridge, MA",MA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),10000+ employees,Company - Public,Takeda Pharmaceuticals,3.7,239,3,na,6817,0,0,1,1,1,1,0,0,1,0,0,0,1,1
+95.0,"New York, NY",NY,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,201 to 500 employees,Company - Private,"Remedy BPCI Partners, LLC.",3.4,9,2,na,3111,1,0,1,1,0,1,1,0,0,0,0,0,1,0
+97.5,"New York, NY",NY,Consumer Product Rental,Consumer Services,Unknown / Non-Applicable,501 to 1000 employees,Company - Private,Strategic Financial Solutions,4.0,13,2,na,3431,1,0,0,0,1,1,0,0,0,0,0,0,1,0
+128.5,"Chicago, IL",IL,Consulting,Business Services,$50 to $100 million (USD),201 to 500 employees,Company - Private,Maven Wave Partners,4.4,12,0,senior,3160,1,0,0,1,1,1,1,0,1,1,0,0,1,0
+124.0,"Pittsburgh, PA",PA,Colleges & Universities,Education,Unknown / Non-Applicable,501 to 1000 employees,College / University,Software Engineering Institute,2.6,36,0,senior,5379,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+194.0,"San Francisco, CA",CA,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,501 to 1000 employees,Subsidiary or Business Segment,The Climate Corporation,3.2,14,3,senior,4847,0,0,0,1,1,0,0,0,0,0,0,0,1,0
+31.5,"Vail, CO",CO,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),501 to 1000 employees,Hospital,Vail Health,3.7,54,0,na,1945,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+50.0,"Salt Lake City, UT",UT,Religious Organizations,Non-Profit,Unknown / Non-Applicable,10000+ employees,Nonprofit Organization,The Church of Jesus Christ of Latter-day Saints,4.2,-1,0,na,4525,0,0,0,1,1,1,0,0,0,0,0,0,0,0
+104.5,"New York, NY",NY,Advertising & Marketing,Business Services,Unknown / Non-Applicable,201 to 500 employees,Company - Public,Crossix Solutions,3.5,15,0,na,4134,1,0,1,1,1,1,0,0,0,0,0,0,1,0
+69.5,"Phoenix, AZ",AZ,IT Services,Information Technology,$50 to $100 million (USD),201 to 500 employees,Company - Private,Solugenix Corporation,4.3,51,0,na,3728,1,0,0,0,1,1,0,0,0,0,0,0,1,1
+121.0,"Irvine, CA",CA,Colleges & Universities,Education,Unknown / Non-Applicable,10000+ employees,Company - Private,West Coast University,2.6,23,0,na,2399,1,0,0,0,0,1,1,1,0,0,0,0,1,0
+85.5,"Charlotte, NC",NC,IT Services,Information Technology,Unknown / Non-Applicable,201 to 500 employees,Company - Private,Clarity Insights,4.2,12,0,na,5192,1,0,0,0,1,1,0,0,1,0,0,0,1,0
+113.0,"Aliso Viejo, CA",CA,Video Games,Media,$10+ billion (USD),1001 to 5000 employees,Company - Public,NCSOFT,3.1,23,3,na,2421,1,0,1,1,1,1,0,0,0,0,0,0,0,0
+103.0,"San Francisco, CA",CA,Consumer Products Manufacturing,Manufacturing,$25 to $50 million (USD),201 to 500 employees,Subsidiary or Business Segment,SoftBank Robotics,3.8,15,0,na,2730,1,0,0,1,0,1,1,0,0,0,0,0,0,0
+90.5,"Cambridge, MA",MA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),10000+ employees,Company - Public,GSK,3.9,190,3,na,5838,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+153.0,"Los Angeles, CA",CA,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,51 to 200 employees,Company - Private,Factual,4.3,12,1,senior,2095,1,0,1,0,1,0,0,0,0,0,0,0,1,0
+106.5,"McLean, VA",VA,Federal Agencies,Government,$1 to $2 billion (USD),5001 to 10000 employees,Nonprofit Organization,MITRE,3.2,62,3,jr,3170,1,0,1,0,1,1,1,0,1,0,0,0,1,0
+130.0,"Ann Arbor, MI",MI,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,51 to 200 employees,Company - Private,SkySync,5.0,9,0,senior,3808,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+123.5,"Dublin, CA",CA,Consulting,Business Services,$2 to $5 billion (USD),1001 to 5000 employees,Company - Public,TriNet,3.3,32,3,na,7383,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+86.5,"New York, NY",NY,Enterprise Software & Network Solutions,Information Technology,$500 million to $1 billion (USD),1001 to 5000 employees,Company - Public,Medidata Solutions,4.3,21,1,na,4023,0,0,0,1,1,1,0,0,0,0,0,0,0,0
+64.0,"Scotts Valley, CA",CA,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),501 to 1000 employees,Nonprofit Organization,Central California Alliance for Health,3.5,24,0,na,3846,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+47.0,"New York, NY",NY,Internet,Information Technology,$10 to $25 million (USD),201 to 500 employees,Company - Private,Signpost,3.9,10,0,senior,2460,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+162.0,"San Jose, CA",CA,Computer Hardware & Software,Information Technology,$5 to $10 billion (USD),10000+ employees,Company - Public,Adobe,4.0,38,2,na,3864,1,0,0,0,1,1,1,1,1,0,0,0,1,0
+140.0,"Gaithersburg, MD",MD,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),10000+ employees,Company - Public,AstraZeneca,3.9,107,3,senior,4572,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+89.0,"Olympia, WA",WA,IT Services,Information Technology,$5 to $10 million (USD),51 to 200 employees,Company - Private,"DatamanUSA, LLC",3.4,-1,0,na,407,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+98.0,"Knoxville, TN",TN,Gas Stations,Retail,$10+ billion (USD),10000+ employees,Company - Private,Pilot Flying J Travel Centers LLC,3.0,62,3,senior,2133,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+137.0,"New York, NY",NY,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),10000+ employees,Company - Public,AstraZeneca,3.9,107,3,senior,3169,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+99.0,"Denver, CO",CO,Insurance Carriers,Insurance,$500 million to $1 billion (USD),501 to 1000 employees,Nonprofit Organization,Pinnacol Assurance,4.0,105,0,na,4701,1,0,0,1,0,1,0,0,0,0,0,0,0,0
+54.0,"Milwaukee, WI",WI,Food & Beverage Manufacturing,Manufacturing,Unknown / Non-Applicable,501 to 1000 employees,Company - Private,Palermo's Pizza,3.3,56,0,na,2832,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+109.0,"Franklin, TN",TN,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,1001 to 5000 employees,Company - Private,Equian LLC,3.2,16,0,senior,1793,0,0,0,1,1,0,0,0,1,1,0,0,0,0
+109.0,"Rockville, MD",MD,IT Services,Information Technology,$25 to $50 million (USD),201 to 500 employees,Company - Private,MetroStar Systems,3.4,21,0,na,3677,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+139.5,"Natick, MA",MA,Computer Hardware & Software,Information Technology,$1 to $2 billion (USD),1001 to 5000 employees,Company - Private,MathWorks,4.4,36,0,senior,2518,1,0,0,0,0,1,1,1,0,0,0,0,0,0
+254.0,"Chicago, IL",IL,Insurance Carriers,Insurance,$10+ billion (USD),10000+ employees,Company - Private,Liberty Mutual Insurance,3.3,108,3,na,4471,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+125.0,"New York, NY",NY,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,1001 to 5000 employees,Company - Private,Information Builders,3.2,45,3,na,3516,1,0,0,1,1,1,0,0,0,1,1,1,1,0
+106.5,"Cambridge, MA",MA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),10000+ employees,Company - Public,Novartis,3.8,24,0,senior,4033,1,0,0,0,0,1,1,0,0,0,0,0,1,0
+27.5,"Millville, DE",DE,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),1001 to 5000 employees,Nonprofit Organization,Beebe Healthcare,3.6,85,0,na,2801,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+73.0,"South San Francisco, CA",CA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,201 to 500 employees,Subsidiary or Business Segment,Audentes Therapeutics,2.9,8,3,na,3725,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+81.0,"Rockville, MD",MD,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$25 to $50 million (USD),201 to 500 employees,Company - Private,Advanced BioScience Laboratories,2.7,59,0,na,3776,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+128.5,"Philadelphia, PA",PA,Staffing & Outsourcing,Business Services,$5 to $10 million (USD),1 to 50 employees,Company - Private,"Numeric, LLC",3.2,-1,0,na,2306,1,0,1,1,0,1,0,0,1,0,0,0,1,0
+99.5,"Winston-Salem, NC",NC,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),5001 to 10000 employees,Company - Private,Reynolds American,3.1,145,0,na,7121,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+92.0,"South San Francisco, CA",CA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,501 to 1000 employees,Company - Private,23andMe,4.0,14,3,senior,3911,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+45.5,"Richfield, OH",OH,Insurance Carriers,Insurance,$500 million to $1 billion (USD),501 to 1000 employees,Company - Private,National Interstate,3.3,31,0,na,2867,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+122.5,"Indianapolis, IN",IN,Consulting,Business Services,$25 to $50 million (USD),51 to 200 employees,Company - Private,Moser Consulting,4.5,24,0,senior,2311,1,0,1,1,0,1,0,0,1,1,0,0,1,0
+37.5,"Tampa, FL",FL,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),1001 to 5000 employees,Subsidiary or Business Segment,Greenway Health,3.0,43,3,na,6175,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+54.0,"Worcester, MA",MA,Insurance Carriers,Insurance,$5 to $10 billion (USD),5001 to 10000 employees,Company - Public,The Hanover Insurance Group,3.7,168,0,na,3783,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+53.5,"New York, NY",NY,Travel Agencies,Travel & Tourism,$2 to $5 billion (USD),1001 to 5000 employees,Company - Private,Fareportal,3.8,18,3,na,2479,1,0,0,0,1,1,0,0,0,0,0,0,0,0
+140.0,"Chicago, IL",IL,Financial Analytics & Research,Finance,$1 to $2 billion (USD),5001 to 10000 employees,Company - Public,TransUnion,3.9,52,0,senior,5338,1,0,0,0,1,1,0,0,0,0,0,0,1,0
+77.5,"Hampton, VA",VA,Federal Agencies,Government,$1 to $2 billion (USD),5001 to 10000 employees,Nonprofit Organization,MITRE,3.2,62,3,senior,3243,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26.5,"Cambridge, MA",MA,Construction,"Construction, Repair & Maintenance",Unknown / Non-Applicable,1 to 50 employees,Company - Private,Mcphail Associates,3.3,44,0,na,1848,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+117.5,"Winston-Salem, NC",NC,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),5001 to 10000 employees,Company - Private,Reynolds American,3.1,145,0,senior,7361,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+70.5,"San Diego, CA",CA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$50 to $100 million (USD),501 to 1000 employees,Company - Private,Crown Bioscience,2.4,14,0,na,3374,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+61.5,"San Francisco, CA",CA,Computer Hardware & Software,Information Technology,$25 to $50 million (USD),51 to 200 employees,Company - Private,HOVER,4.8,9,0,na,3693,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+80.0,"Marietta, GA",GA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,1001 to 5000 employees,Company - Private,Q2 Solutions,2.9,5,0,senior,4613,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+70.0,"Ithaca, NY",NY,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,1001 to 5000 employees,Company - Private,Q2 Solutions,2.9,5,0,na,4707,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+120.0,"Cambridge, MA",MA,-1,-1,Unknown / Non-Applicable,Unknown,Company - Private,Kronos Bio,-1.0,-1,0,na,3309,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+90.0,"Quincy, MA",MA,Insurance Carriers,Insurance,$100 to $500 million (USD),1001 to 5000 employees,Company - Private,Arbella Insurance,3.4,32,0,na,2752,0,0,1,0,1,1,0,0,1,0,0,0,0,0
+111.0,"Palo Alto, CA",CA,K-12 Education,Education,Unknown / Non-Applicable,1 to 50 employees,Company - Private,CK-12 Foundation,4.1,13,0,na,3478,1,0,0,1,1,0,0,0,0,0,1,1,1,1
+138.5,"San Francisco, CA",CA,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,51 to 200 employees,Company - Public,Life360,3.9,12,0,senior,5717,1,0,0,0,0,1,1,0,0,0,0,0,0,0
+68.5,"Boston, MA",MA,Insurance Carriers,Insurance,$10+ billion (USD),5001 to 10000 employees,Company - Private,MassMutual,3.6,169,0,na,5016,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+87.5,"San Francisco, CA",CA,Internet,Information Technology,$100 to $500 million (USD),201 to 500 employees,Company - Private,Fivestars,3.9,9,2,na,3813,1,0,0,1,1,1,0,0,0,0,0,0,0,0
+111.5,"Plymouth Meeting, PA",PA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion (USD),10000+ employees,Company - Public,IQVIA,3.6,3,3,senior,5025,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+84.5,"Cambridge, MA",MA,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),10000+ employees,Company - Public,GSK,3.9,190,3,senior,6162,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+102.5,"Nashville, TN",TN,Internet,Information Technology,$100 to $500 million (USD),1001 to 5000 employees,Company - Public,Eventbrite,4.4,14,3,senior,6130,1,0,1,1,0,1,0,0,1,0,0,0,1,0
+73.5,"Pittsburgh, PA",PA,Colleges & Universities,Education,Unknown / Non-Applicable,501 to 1000 employees,College / University,Software Engineering Institute,2.6,36,0,na,3078,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+127.5,"Allentown, PA",PA,Staffing & Outsourcing,Business Services,$5 to $10 million (USD),1 to 50 employees,Company - Private,"Numeric, LLC",3.2,-1,0,na,1642,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+93.5,"Beavercreek, OH",OH,Federal Agencies,Government,$50 to $100 million (USD),501 to 1000 employees,Nonprofit Organization,Riverside Research Institute,3.6,53,0,na,3673,1,0,0,0,0,0,0,0,0,0,0,0,1,0
