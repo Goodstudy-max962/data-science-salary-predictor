@@ -14,4 +14,4 @@ python src/model_training.py
 streamlit run src/app.py
 
 ## 作者
-杨俊杰 - 河北水利电力学院 数据科学与大数据技术
+Yangxxx
