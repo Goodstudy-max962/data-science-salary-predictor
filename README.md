@@ -14,4 +14,4 @@ python src/model_training.py
 streamlit run src/app.py
 
 ## 作者
-Yxxxx
+Yxxx
